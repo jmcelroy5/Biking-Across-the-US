@@ -1,0 +1,199 @@
+
+    body {
+        font-family: 'Droid Sans', sans-serif;
+        background-color: rgb(211, 211, 211);;
+    }
+
+    header {
+        font-family: 'Fauna One', serif;
+        padding: 20px;
+        margin: 0 auto;
+        background-color:rgb(32,89,150);
+        color: white;
+        text-align: left;
+        border-top-left-radius: 20px;
+        border-top-right-radius: 20px;
+    }
+
+    article {
+      max-width: 600px;
+      margin: 0 auto;
+      text-align: left;
+      line-height: 150%;
+      font-size: 13pt;
+    }
+
+    input {                         /* email signup input box */
+        font-size: 14px;
+        padding: 5px 50px 5px 50px;
+    }
+
+    h1{
+        font-size: 100px;
+        margin: 0 auto;
+    }
+
+    h3 {
+        font-family: 'Montserrat', sans-serif;
+        color: rgb(32,89,150);
+        font-weight: 700;
+        font-size: 23pt;
+        line-height:1;
+    }
+
+    h4 {
+        font-family: 'Montserrat', sans-serif;
+        color: rgb(32,89,150);
+        font-weight: 700;
+        font-size: 16pt;
+        line-height:1;
+    }
+
+    a {
+        color: rgb(32,89,150);
+        text-decoration: none;
+    }
+
+   a:hover {
+        text-decoration: none;
+        color:white;
+    }
+
+    #navbar li{
+        display: inline;
+        list-style-type: none;
+        padding: 10px 5px 10px 5px;
+        margin-right: 20px;
+    }
+
+    ul {
+        list-style-type: none;
+        margin-left: 0px;
+    }
+
+    #quote-img {
+        background-image: url("bikepic.jpg");
+        width: 575px;
+        height: 320px;
+        background-size:575px;
+        z-index: -1;
+        position: relative;
+        border: 5px solid black;
+    }
+
+    .quote-overlay {
+        background-color:rgba(0, 20, 43, 0.28);
+        width: 580px;
+        height: 325px;
+        z-index: 1;
+    }
+
+    #quote-overlay > div {
+        position: absolute;
+    }
+
+    .quote-text {
+        color: white;
+        font-weight: bold;
+        font-size: 20px;
+        z-index: 5;
+        margin-top:-306px;
+        padding: 40px;
+    }
+
+    #content {
+        font-style: bold;
+        padding: 6px 0px 6px 0px;
+        margin: 80px 20px 0px 0px;
+    }
+
+    #blog-content{
+        float: left;
+        padding-top: 40px;
+    }
+
+    #banner{
+        width=100%;
+    }
+
+    #navbar {
+        background-color: #000;
+        text-align: left;
+        margin: 0 auto;
+        padding: 25px 0px 25px 25px;
+        font-size: 16px;
+        border-bottom-right-radius:20px;
+        border-bottom-left-radius:20px;
+        z-index: -1;
+    }
+
+    #social-media{
+        float: right;
+        padding-right: 20px;
+        padding-bottom: 15px;
+        z-index: 5;
+    }
+
+    #logo {
+        display: inline;
+    }
+
+	#mc_embed_signup {
+        font-size: 12px; 
+        color: white;
+        width: 250px; 
+        padding: 20px; 
+        float: right;
+        text-align: right;
+        /*position: absolute;*/
+        /*display:inline-block;*/
+        margin-top: 40px;
+        text-align: left;
+        background-color: #000;
+        border-radius: 20px;
+    }
+
+    .mc-field-group-input-group {               /* email format radio list */
+        text-align: left;
+    }
+
+    #mc-embedded-subscribe{
+        font-size:12px;
+        margin: 0 auto;
+        text-align: left;
+    }
+
+    #about-links{
+        color:rgb(0, 92, 141)
+    }
+
+    #about-links:hover{
+        color:white
+    }
+
+/* Dude div ID */
+    #instagram { 
+        overflow: auto;
+        padding: 30px 0px 80px 0px;
+        text-align: center;
+        margin: 0 auto;
+   }
+
+/* images that come in via the instaImgCirc script*/
+    .instaImgCirc img {
+        width: 250px;
+        height: 250px;
+        border-radius: 500px;
+        border: 2px black solid;
+        display: inline-block;
+        margin: 5px;
+    }
+/* The images each have their own div */    
+/* How to make it work with 4 across? i.e. 25% */
+/* Something to do with vertical-align: baseline ?*/
+
+    .instaImgCirc {
+        text-align: center;
+        width: 33%;
+        float: left;
+    }
