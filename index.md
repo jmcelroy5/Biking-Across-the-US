@@ -14,7 +14,9 @@ categories:
 {{ post.excerpt }}
 {% endif %}
 [Read more]({{ site.baseurl }}{{ post.url }})
+<br><br><br><br>
 {% endfor %}
+
 
 
 
