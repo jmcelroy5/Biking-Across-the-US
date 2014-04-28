@@ -2,7 +2,7 @@
 layout: post
 title: "Chasing the Dream Across America"
 date: 2014-03-22
-image-link: http://www.adventurecycling.org/default/assets/Image/Routes_Maps/Overviews/TransAmerica_Trail.gif
+image-link: transamerica.gif
 categories: 
 ---
 
