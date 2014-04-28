@@ -48,7 +48,7 @@
     }
 
     a {
-        color: white;
+        color: rgb(32,89,150);
         text-decoration: none;
         position: relative;
     }
@@ -71,6 +71,7 @@
         /*list-style-type: none;*/
         padding: 10px 0px 10px 0px;
         margin: 0px;
+        color: white;
     }
 
     #navbar {
