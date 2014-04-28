@@ -48,14 +48,14 @@
     }
 
     a {
-        color: rgb(32,89,150);
+        color: white;
         text-decoration: none;
         position: relative;
     }
 
    a:hover {
         text-decoration: none;
-        color:white;
+        color:rgb(32,89,150);
     }
 
     a:active {
@@ -63,7 +63,7 @@
     }
 
     #navbox{
-        padding-top: 25px;
+        padding-top: 20px;
     }
 
     #navbar li{
@@ -126,7 +126,7 @@
 
     #blog-content{
         float: left;
-        padding-top: 25px;
+        padding-top: 20px;
         margin-left:30px;
     }
 
