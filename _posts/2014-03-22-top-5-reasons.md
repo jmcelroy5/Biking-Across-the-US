@@ -4,6 +4,7 @@ title: "Top 5 Reasons to Go on a Bike Trip"
 date: 2014-03-22
 image-link: bikepic.jpg
 categories: 
+excerpt: "The more I think about bike travel the more it makes sense to me at this juncture in life. There are so many reasons why this feels like the right thing to do, but here are the major ones."
 ---
 The more I think about bike travel the more it makes sense to me at this juncture in life. There are so many reasons why this feels like the right thing to do, but here are the major ones.
 

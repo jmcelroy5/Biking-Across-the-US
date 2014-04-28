@@ -4,6 +4,7 @@ title: "A Change of Direction"
 date: 2014-04-06 
 image-link: directions.jpg
 categories: 
+excerpt: "When I was a senior in college studying in Spain, I had many conversations with my Polish roommate, Agata, about the future. I remember one time we were sitting in a cafe, talking in Spanish (our common language) about our impending return to the real world. I was mere months away from graduating into a tough job market with no plan and no real idea what I wanted to do or be."
 ---
 When I was a senior in college studying in Spain, I had many conversations with my Polish roommate, Agata, about the future. I remember one time we were sitting in a cafe, talking in Spanish (our common language) about our impending return to the real world. I was mere months away from graduating into a tough job market with no plan and no real idea what I wanted to do or be. 
 

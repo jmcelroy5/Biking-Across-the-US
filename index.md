@@ -10,6 +10,10 @@ categories:
 {% if post.image-link %}
 <img width="400px" src="images/{{ post.image-link }}" style="border: 5px solid black" />
 {% endif %}
+{% if post.excerpt %}
+{{ post.excerpt }}
+{% endif %}
+[Read more]({{ site.baseurl }}{{ post.url }})
 {% endfor %}
 
 
