@@ -2,7 +2,7 @@
 layout: post
 title: "A Change of Direction"
 date: 2014-04-06 
-image-link: direction.jpg
+image-link: directions.jpg
 categories: 
 ---
 When I was a senior in college studying in Spain, I had many conversations with my Polish roommate, Agata, about the future. I remember one time we were sitting in a cafe, talking in Spanish (our common language) about our impending return to the real world. I was mere months away from graduating into a tough job market with no plan and no real idea what I wanted to do or be. Finding the thought of a traditional office job unsettling, Agata and I entertained some fanciful ideas. We talked about volunteering on [organic farms](http://www.wwoof.net/), working as au pairs in other countries, finding [seasonal work](http://www.coolworks.com/) at resorts, joining a Conservation Corps, living at a Buddhist retreat center, working in Ireland through [Bunac](http://www.bunac.org/), or teaching English in South America or Asia.   
