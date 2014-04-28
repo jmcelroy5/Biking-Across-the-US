@@ -5,7 +5,7 @@ date: 2014-03-22
 image-link: bikepic.jpg
 categories: 
 ---
-The more I think about bike travel the more it makes sense to me at this juncture in life. There are so many reasons why this feels like the right thing to do, but here are the major ones.    
+The more I think about bike travel the more it makes sense to me at this juncture in life. There are so many reasons why this feels like the right thing to do, but here are the major ones.
 
 ####1. Take time to pause and disconnect  
 For most of my life I've known nothing but being a student. I've lived inside the neat lines, going from one structured experience to the next. Now I feel the need to step off the conveyor belt for a while and examine the factory from the outside, to pause and experience what it's like to just exist outside of the obligations and pressures of school and career. When you're riding a bike for eight hours a day there's a lot of time to let your mind wander. This will be a great time to ask myself the bigger picture questions so that I can re-enter the world with a stronger sense of what matters to me and who I want to be.    

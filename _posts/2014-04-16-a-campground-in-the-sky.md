@@ -7,7 +7,7 @@ categories:
 ---
 ####Journal entry from day 2 of the mini bike trip:    
 
-WOW, what an intense and fantastic day! Probably more intense than I anticipated, but there were so many beautiful, wonderful moments. I got a leisurely start this morning at China Camp. I putzed around making breakfast and packing up my wet tent while trail runners and mountain bikers whizzed by the trail right next to my campsite.     
+WOW, what an intense and fantastic day! Probably more intense than I anticipated, but there were so many beautiful, wonderful moments. I got a leisurely start this morning at China Camp. I putzed around making breakfast and packing up my wet tent while trail runners and mountain bikers whizzed by the trail right next to my campsite.  
     
 Instead of heading straight out, I decided to ride a loop through the park along the coast, making a stop at China Camp Village, a collection of shrimp fishing buildings preserved as a historic site. Rolling out of the park onto the main road I felt at once peaceful and overwhelmingly joyful. I had to refrain from yelling "GOOD MORNING!" to every park visitor I saw coming in, as if I were the self-appointed state park service greeter.    
 

@@ -5,5 +5,12 @@ categories:
 ---
 
 {% for post in site.posts %}
-  * {{ post.date | date_to_string }} &raquo; [ {{ post.title }} ]({{ site.baseurl }}{{ post.url }})
+### [ {{ post.title }} ]( {{ site.baseurl }}{{ post.url }} )
+<p style="color:grey">{{ post.date | date: "%B %d, %Y" }} </p>
+{% if post.image-link %}
+<img width="400px" src="images/{{ post.image-link }}" style="border: 5px solid black" />
+{% endif %}
 {% endfor %}
+
+
+

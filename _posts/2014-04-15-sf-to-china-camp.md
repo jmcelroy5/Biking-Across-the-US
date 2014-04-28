@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "San Francisco to China Camp: My First Overnighter"
+title: "San Francisco to China Camp"
 date: 2014-04-15
 image-link: chinacamp.jpg
 categories: 
 ---
-Before taking off on a four month solo bike trip I figure it's probably a good idea to know what you're getting yourself into. Before this year I could count the number of nights I'd spent in a tent on two hands, and I had definitely never gone camping alone. While I'm used to biking around town, I'd never done any longer tours or highway riding by myself. So, I decided to plan a two-night bike trip to test out my gear and get a little taste of bike touring close to home before I set off on the big trip.    
+Before taking off on a four month solo bike trip I figure it's probably a good idea to know what you're getting yourself into. Before this year I could count the number of nights I'd spent in a tent on two hands, and I had definitely never gone camping alone. While I'm used to biking around town, I'd never done any longer tours or highway riding by myself. So, I decided to plan a two-night bike trip to test out my gear and get a little taste of bike touring close to home before I set off on the big trip.  
 
 A few Saturdays ago I set off at 4:30 PM in a cold drizzle from San Francisco, riding my fully-loaded bike, headed for China Camp State Park in Marin 30 miles away. I was cursing myself for going to an HTML workshop that morning instead of getting an earlier start on the ride. After the workshop I had burned another couple hours of daylight waffling over the decision to go or wait for the next day. When I finally set off, it was hard to ward off the doubts in my head. I half expected to think better of it and turn back at some point.    
 
