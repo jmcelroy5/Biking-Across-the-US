@@ -43,7 +43,7 @@ body {
 .grid_12 {
   display: inline;
   float: left;
-  margin-left: 10px;
+  /*margin-left: 10px;*/
   margin-right: 10px;
 }
 
@@ -84,7 +84,7 @@ body {
 }
 
 .container_12 .grid_3 {
-  width: 220px;
+  width: 190px;
 }
 
 .container_12 .grid_4 {
