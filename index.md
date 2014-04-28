@@ -19,9 +19,5 @@ categories:
 <br><br><br><br><br>
 {% endfor %}
 
-<script src="mailchimp.js" type="text/javascript">
-
-</script>
-
 
 
