@@ -2,7 +2,7 @@
 layout: post
 title: "Chasing the Dream Across America"
 date: 2014-03-22
-image-link: transamerica.gif
+image-link: transamerican.gif
 categories: 
 ---
 
