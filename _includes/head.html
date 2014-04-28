@@ -1,0 +1,16 @@
+<div id="banner">
+
+    <header>
+        <h1>Biking Acr<img src="bike-wheel.png" height="80" />ss </h1>
+        <h2>A TransAmerican bike trip in summer 2014</h2>
+    </header>  
+
+      <ul id="navbar">
+        {% for page in site.pages_list %}
+            <li><a href="{{ page[1]  }}">{{ page[0] }}</a></li>
+        {% endfor %}
+      </ul>
+
+</div>
+
+<body class="container_12">

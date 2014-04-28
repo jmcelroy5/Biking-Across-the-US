@@ -1,0 +1,11 @@
+name: Biking Across the US
+markdown: redcarpet
+pygments: true
+baseurl: /Biking-Across-the-US
+pages_list:
+	Blog: "/index.html"
+	About: "/about.html"
+	Gear: "/gear.html"
+	Photos: "/photos.html"
+	Map: "/map.html"
+

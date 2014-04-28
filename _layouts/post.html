@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+<link href="..\..\..\css/css.css" rel="stylesheet" type="text/css">
+
+<div id="blog-content" class="grid_8">
+
+	<h3>{{ page.title }}</h3>
+
+	<p style="color:grey;"> {{ page.date | date: "%B %d, %Y" }} </p>
+
+	 <img width="575px" src="{{ page.image-link }}" style="border: 5px solid black" />
+
+	<article>
+
+	{{ content }}
+
+	</article>
+
+	<a href="..\index.html" style="color:blue;">Back to Blog</a>
+	<br><br>
+	<img src="bike-wheel-grey.png" width="35px">
+
+</div>
+
+
+
