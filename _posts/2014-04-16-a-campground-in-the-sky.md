@@ -6,7 +6,7 @@ image-link: cows.jpg
 categories: 
 excerpt: "####Journal entry from day 2 of the mini bike trip:    
 
-WOW, what an intense and fantastic day! Probably more intense than I anticipated, but there were so many beautiful, wonderful moments..."
+WOW, what an intense and fantastic day! Probably more intense than I anticipated, but there were so many beautiful, wonderful moments."
 ---
 ####Journal entry from day 2 of the mini bike trip:    
 
