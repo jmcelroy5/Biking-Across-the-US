@@ -2,7 +2,7 @@
 layout: post
 title: "San Francisco to China Camp"
 date: 2014-04-15
-image-link: chinacamp.jpg
+image-link: Biking-Across-the-US/images/chinacamp.jpg
 categories:
 excerpt: "Before taking off on a four month solo bike trip I figure it's probably a good idea to know what you're getting yourself into."
 ---
