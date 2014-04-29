@@ -186,8 +186,8 @@
 
 /* images that come in via the instaImgCirc script*/
     .instaImgCirc img {
-        width: 250px;
-        height: 250px;
+        width: 175px;
+        height: 175px;
         border-radius: 500px;
         border: 2px black solid;
         display: inline-block;
