@@ -63,10 +63,13 @@
         top: 2px;
     }
 
-    .navbox a:link{
+    .navbox a:link {
         /*padding-top: 20px;*/
         color: rgb(1, 95, 197);
+    }
 
+    .navbox a:hover{
+        color: rgb(1, 95, 197);
     }
 
     #navbar li{
