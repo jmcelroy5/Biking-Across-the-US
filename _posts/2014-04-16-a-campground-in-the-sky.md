@@ -2,7 +2,7 @@
 layout: post
 title: "A Campground in the Sky"
 date: 2014-04-16
-image-link: Biking-Across-the-US/images/cows.jpg
+image-link: {{ site.baseurl}}/cows.jpg
 categories: 
 excerpt: "####Journal entry from day 2 of the mini bike trip:    
 
