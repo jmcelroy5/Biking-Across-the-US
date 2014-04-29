@@ -6,7 +6,8 @@ image-link: cows.jpg
 categories: 
 excerpt: "####Journal entry from day 2 of the mini bike trip:    
 
-WOW, what an intense and fantastic day! Probably more intense than I anticipated, but there were so many beautiful, wonderful moments. I got a leisurely start this morning at China Camp. I putzed around making breakfast and packing up my wet tent while trail runners and mountain bikers whizzed by the trail right next to my campsite."
+WOW, what an intense and fantastic day! Probably more intense than I anticipated, but there were so many beautiful, wonderful moments. I got a leisurely start this morning at China Camp. I putzed around making breakfast and packing up my wet tent while trail runners and mountain bikers whizzed by the trail right next to my campsite. 
+"
 ---
 ####Journal entry from day 2 of the mini bike trip:    
 
