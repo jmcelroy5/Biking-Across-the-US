@@ -4,7 +4,7 @@ title: "San Francisco to China Camp"
 date: 2014-04-15
 image-link: chinacamp.jpg
 categories:
-excerpt: "Before taking off on a four month solo bike trip I figure it's probably a good idea to know what you're getting yourself into."
+excerpt: "Before taking off on a four month solo bike trip I figure it's probably a good idea to know what you're getting yourself into. Before this year I could count the number of nights I'd spent in a tent on two hands, and I had definitely never gone camping alone. While I'm used to biking around town, I'd never done any longer tours or highway riding by myself. So, I decided to plan a two-night bike trip to test out my gear and get a little taste of bike touring close to home before I set off on the big trip.  "
 ---
 Before taking off on a four month solo bike trip I figure it's probably a good idea to know what you're getting yourself into. Before this year I could count the number of nights I'd spent in a tent on two hands, and I had definitely never gone camping alone. While I'm used to biking around town, I'd never done any longer tours or highway riding by myself. So, I decided to plan a two-night bike trip to test out my gear and get a little taste of bike touring close to home before I set off on the big trip.  
 

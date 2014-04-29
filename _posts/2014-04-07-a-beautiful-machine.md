@@ -4,7 +4,7 @@ title: "A Beautiful Machine"
 date: 2014-04-07 
 image-link: 
 categories: 
-excerpt: "Growing up in the sprawling suburbs of Houston, I hated the fact that there was no choice but to drive everywhere and spend time every day sitting in traffic."
+excerpt: "Growing up in the sprawling suburbs of Houston, I hated the fact that there was no choice but to drive everywhere and spend time every day sitting in traffic. I hated ugly 18-lane spaghetti freeways and expansive Costco parking lots. I hated the fact that there were few safe places for me to play as a kid and that whenever I wanted to go somewhere my parents had to drive me."
 ---
 
 Growing up in the sprawling suburbs of Houston, I hated the fact that there was no choice but to drive everywhere and spend time every day sitting in traffic. I hated ugly 18-lane spaghetti freeways and expansive Costco parking lots. I hated the fact that there were few safe places for me to play as a kid and that whenever I wanted to go somewhere my parents had to drive me.
