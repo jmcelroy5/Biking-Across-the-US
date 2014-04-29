@@ -9,7 +9,7 @@ layout: default
 	<p style="color:grey;"> {{ page.date | date: "%B %d, %Y" }} </p>
 
 	{% if page.image-link %}
-  	<img width="575px" src="{{ site.baseurl }}/images/{{ page.image-link }}" style="border: 5px solid black" />
+  	<img width="575px" src="images/{{ page.image-link }}" style="border: 5px solid black" />
   	{% endif %}
   	{% if page.image-url %}
   	<img width="575px" src="{{ page.image-url }}" style="border: 5px solid black" />
@@ -21,9 +21,9 @@ layout: default
 
 	</article>
 
-	<a href="{{ site.baseurl }}/index.html">Back to Blog</a>
+	<a href="index.html">Back to Blog</a>
 	<br><br>
-	<img src="{{ site.baseurl }}/bike-wheel-grey.png" width="35px">
+	<img src="bike-wheel-grey.png" width="35px">
 	<br><br>
 
 </div>
