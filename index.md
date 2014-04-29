@@ -12,7 +12,7 @@ categories:
 <img width="600px" src="{{ post.image-url }}" style="border: 5px solid black" />
 {% endif %}
 ### [ {{ post.title }} ]( {{ site.baseurl }}{{ post.url }} )
-<p style="color:grey">{{ post.date | date: "%B %d, %Y" }} </p>
+<p style="color:grey;font-size:14px">{{ post.date | date: "%B %d, %Y" }} </p>
 {% if post.excerpt %}
 <article>
 {{ post.excerpt }}
