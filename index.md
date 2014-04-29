@@ -8,6 +8,9 @@ categories:
 {% if post.image-link %}
 <img width="600px" src="images/{{ post.image-link }}" style="border: 5px solid black" />
 {% endif %}
+{% if post.image-url %}
+<img width="600px" src="{{ post.image-url }}" style="border: 5px solid black" />
+{% endif %}
 ### [ {{ post.title }} ]( {{ site.baseurl }}{{ post.url }} )
 <p style="color:grey">{{ post.date | date: "%B %d, %Y" }} </p>
 {% if post.excerpt %}
