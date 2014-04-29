@@ -6,7 +6,7 @@ categories:
 
 {% for post in site.posts %}
 {% if post.image-link %}
-<img width="600px" src="{{ site.baseurl }}/images/{{ post.image-link }}" style="border: 5px solid black" />
+<img width="600px" src="images/{{ post.image-link }}" style="border: 5px solid black" />
 {% endif %}
 ### [ {{ post.title }} ]( {{ site.baseurl }}{{ post.url }} )
 <p style="color:grey">{{ post.date | date: "%B %d, %Y" }} </p>
