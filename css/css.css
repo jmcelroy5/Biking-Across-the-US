@@ -63,8 +63,7 @@
         top: 2px;
     }
 
-    .navbox a:link {
-        /*padding-top: 20px;*/
+    .navbox a {
         color: white;
     }
 
