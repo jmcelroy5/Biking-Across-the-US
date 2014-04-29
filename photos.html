@@ -56,6 +56,12 @@
 </script>
 
 <script type="text/javascript">
+
+document.addEventListener('DOMContentLoaded', function() {
+     $("#loading").hide();
+     loadSpreadsheet();
+ });
+
 var URL='https://docs.google.com/spreadsheet/pub?key=0AtF4b6xGWupgdFdzRHhmckNHakxwVjFWX3BSZVFlenc&output=html';
  
 function loadSpreadsheet() {
@@ -78,11 +84,6 @@ function showData(data) {
    var output = Mustache.render(template, { rows: getLast(data,18) });
    document.getElementById('instagram').innerHTML = output;
  }
- 
- document.addEventListener('DOMContentLoaded', function() {
-     $("#loading").hide();
-     loadSpreadsheet();
- });
 
 </script>
 </html>
