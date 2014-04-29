@@ -49,14 +49,14 @@
     }
 
     a {
-        color: white;
+        color: rgb(1, 95, 197);
         text-decoration: none;
         position: relative;
     }
 
    a:hover {
         text-decoration: none;
-        color:rgb(1, 95, 197);
+        color:white;
     }
 
     a:active {
