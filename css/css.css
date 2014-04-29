@@ -63,8 +63,10 @@
         top: 2px;
     }
 
-    #navbox{
+    #navbox a:link{
         /*padding-top: 20px;*/
+        color: rgb(1, 95, 197);
+
     }
 
     #navbar li{
@@ -169,11 +171,11 @@
     }
 
     #about-links{
-        color:rgb(0, 113, 235);
+        color:rgb(1, 95, 197);
     }
 
     #about-links:hover{
-        color:white
+        color:white;
     }
 
 /* Dude div ID */
