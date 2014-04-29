@@ -34,7 +34,7 @@
 
     h3 {
         font-family: 'Montserrat', sans-serif;
-        color: rgb(32,89,150);
+        color: rgb(0, 113, 235);
         font-weight: 700;
         font-size: 23pt;
         line-height:1;
@@ -42,14 +42,14 @@
 
     h4 {
         font-family: 'Montserrat', sans-serif;
-        color: rgb(32,89,150);
+        color: rgb(0, 113, 235);
         font-weight: 700;
         font-size: 16pt;
         line-height:1;
     }
 
     a {
-        color: rgb(17, 112, 213);
+        color: rgb(0, 113, 235);
         text-decoration: none;
         position: relative;
     }
