@@ -68,6 +68,10 @@
         color: rgb(1, 95, 197);
     }
 
+    .navlinks {
+        color: white;
+    }
+
     .navbox a:hover{
         color: rgb(1, 95, 197);
     }
