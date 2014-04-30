@@ -93,12 +93,10 @@
 
     #navbar {
         background-color: #302E2E;
-        /*margin: 0 auto;*/
         padding: 10px 0px 10px 0px;
         font-size: 1.2em;
         border-radius:20px;
         border-radius:20px;
-        /*z-index: -1;*/
     }
 
     ul {
@@ -144,55 +142,13 @@
 
     #blog-content{
         float: left;
-        /*padding-top: 20px;*/
         margin-left:55px;
-    }
-
-    #social-media{
-        float: right;
-        padding-right: 20px;
-        padding-bottom: 15px;
-        z-index: 5;
     }
 
     #logo {
         display: inline;
     }
 
-    #mc_embed_signup {
-        font-size: 12px; 
-        color: white;
-        width: 250px; 
-        padding: 20px; 
-        float: right;
-        text-align: right;
-        /*position: absolute;*/
-        /*display:inline-block;*/
-        margin-top: 40px;
-        text-align: left;
-        background-color: #000;
-        border-radius: 20px;
-    }
-
-    .mc-field-group-input-group {               /* email format radio list */
-        text-align: left;
-    }
-
-    #mc-embedded-subscribe{
-        font-size:10px;
-        margin: 0 auto;
-        text-align: left;
-    }
-
-    #about-links{
-        color:rgb(1, 95, 197);
-    }
-
-    #about-links:hover{
-        color:white;
-    }
-
-/* Dude div ID */
     #instagram { 
         overflow: auto;
         padding: 30px 0px 80px 0px;
@@ -209,12 +165,17 @@
         display: inline-block;
         margin: 5px;
     }
-/* The images each have their own div */    
-/* How to make it work with 4 across? i.e. 25% */
-/* Something to do with vertical-align: baseline ?*/
 
     .instaImgCirc {
         text-align: center;
         width: 32%;
         float: left;
+    }
+
+    #map {
+        position:absolute; 
+        top:0; 
+        bottom:0; 
+        width:700px; 
+        height:500px;
     }

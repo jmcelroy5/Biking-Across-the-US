@@ -1,11 +1,25 @@
 <!DOCTYPE html>
-
+<html>
 <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <base href="http://www.bikingacrossthe.us/">
+	<meta charset=utf-8 />
+	<title>Map Tracker</title>
 
-    <link href="css/css.css" rel="stylesheet" type="text/css">
+	<base href="http://www.bikingacrossthe.us/">
+	
+	<meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no' />
+	<script src='https://api.tiles.mapbox.com/mapbox.js/v1.6.2/mapbox.js'></script>
+	<link href='https://api.tiles.mapbox.com/mapbox.js/v1.6.2/mapbox.css' rel='stylesheet' />
+	<style>
+  	#map {
+        position:relative; 
+        top:0; 
+        bottom:0; 
+        width:700px; 
+        height:500px;
+    }
+	</style>
+
+	<link href="css/css.css" rel="stylesheet" type="text/css">
     <link href="css/960_12_col.css" rel="stylesheet" type="text/css">
     <link href='http://fonts.googleapis.com/css?family=Fauna+One' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Droid+Sans' rel='stylesheet' type='text/css'>
@@ -15,7 +29,7 @@
 
 <body class="container_12">
 
-    <header>
+	<header class="grid_12">
         <a href="index.html" style="color:white;"><h1>Biking Acr<img src="images/bike-wheel.png" height="80" />ss </h1></a>
         <h2>A TransAmerican bike trip in summer 2014</h2>
     </header>  
@@ -32,11 +46,16 @@
     </div>
 
     <div id="blog-content" class="grid_8">
-        <article>
-            <h3>Coming Soon...</h3>   
-            <p> This page is still in the works. It'll be a map that I can update with pinpoints of my location every so often, so you can follow my progress throughout the trip. You creeper you. <br><br> </p>
-        </article>
+
+        <h3>Track my progress</h3>   
+
+        <div id='map'></div><br><br><br><br>
+        <script>
+			var map = L.mapbox.map('map', 'examples.map-9ijuk24y')
+    		.setView([37.238756 , -76.509673], 12);
+		</script>
+
     </div>
-
-
+    
 </body>
+</html>
