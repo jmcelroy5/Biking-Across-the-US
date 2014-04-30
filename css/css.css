@@ -16,9 +16,9 @@
         border-radius: 20px;
     }
 
-    footer {
+    .footer {
         font-family: 'Fauna One', serif;
-        background-color: rgb(1, 95, 197);
+        background-color: #302E2E;
         padding: 20px;
         margin: 0 auto;
         color: white;
