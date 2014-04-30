@@ -23,6 +23,7 @@
         margin: 0 auto;
         color: white;
         text-align: center;
+        float: bottom;
     }
 
     article {
