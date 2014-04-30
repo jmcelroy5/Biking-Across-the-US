@@ -16,6 +16,15 @@
         border-radius: 20px;
     }
 
+    footer {
+        font-family: 'Fauna One', serif;
+        background-color: rgb(1, 95, 197);
+        padding: 20px;
+        margin: 0 auto;
+        color: white;
+        text-align: center;
+    }
+
     article {
       margin: 0 auto;
       line-height: 150%;
@@ -76,8 +85,6 @@
     }
 
     #navbar li{
-        /*display: inline;*/
-        /*list-style-type: none;*/
         padding: 10px 0px 10px 0px;
         margin: 0px;
         color: white;
