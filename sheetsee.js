@@ -1,5 +1,5 @@
 var mapbox = require('mapbox.js')
-var ich = require('icanhaz')
+var ich = require('icanhaz.js')
 
 module.exports.buildOptionObject = buildOptionObject
 function buildOptionObject(optionsJSON, lineItem) {
