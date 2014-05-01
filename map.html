@@ -61,13 +61,13 @@
 // // Sheetsee maps demo code
 
      	 document.addEventListener('DOMContentLoaded', function() {
-     		 // var gData
+     		 var gData
      		 var URL = "https://docs.google.com/spreadsheets/d/1Aie4cWDamxeVnKrjfySL0cFk1XPgmy-MhKt2-gp7XFc/pubhtml"
      		 Tabletop.init( { key: URL, callback: showInfo, simpleSheet: true } )
    		 })
 
    		  	 	function showInfo(data) {
-   				// gData = data
+   				gData = data
     			var optionsJSON = ["date", "place","photo-url"]
 			 	var template = "<ul><li><a href='{{date}}' target='_blank'>"
                   				+ "<img src='{{photo-url}}'></a></li>"
