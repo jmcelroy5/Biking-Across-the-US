@@ -10056,7 +10056,7 @@ module.exports.addMarkerLayer = function(geoJSON, map, template) {
 
   layer.eachLayer(function(marker) {
     var popupContent = ich[template.name](marker.feature.opts)
-    marker.bindPopup(popupContent.html(), {closeButton: false})
+    marker.bindPopup(popupContent, {closeButton: false})
   })
   return layer
 }
