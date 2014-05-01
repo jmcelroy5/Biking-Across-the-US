@@ -9,7 +9,7 @@
 	<meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no' />
 	<script src='https://api.tiles.mapbox.com/mapbox.js/v1.6.2/mapbox.js'></script>
 	<link href='https://api.tiles.mapbox.com/mapbox.js/v1.6.2/mapbox.css' rel='stylesheet' />
-	<script src="tabletop.js" type="text/javascript"></script>
+	<script src="tabletop2.js" type="text/javascript"></script>
 	<script src="icanhaz.js" type="text/javascript"></script>
 	<script src="sheetsee.js" type="text/javascript"></script>
 
@@ -55,16 +55,47 @@
 
         <div id="map"></div><br><br><br><br><br>
 
-
         <script>
 
-        function init() {
-  			Tabletop.init( { key: '1Aie4cWDamxeVnKrjfySL0cFk1XPgmy-MhKt2-gp7XFc',
-            callback: function(data, tabletop) { console.log(data) },
-            simpleSheet: true } )
-			}
+        // var map = Sheetsee.loadMap("map");
+        // Sheetsee.addTileLayer(map,'examples.map-20v6611k');
 
-		init();
+  //       var URL = "https://docs.google.com/spreadsheets/d/1Aie4cWDamxeVnKrjfySL0cFk1XPgmy-MhKt2-gp7XFc/pubhtml";
+
+  //       function loadSpreadsheet() {
+ 	// 		 Tabletop.init({ key: URL, callback: showInfo, simpleSheet: true });
+		// }		
+
+ 	// 	function showInfo(data) {
+  //  			gData = data
+  //  			var optionsJSON = ["date", "place"]
+		// 	var template = "<ul><li><a href='{{date}}' target='_blank'>"
+  //  			+ "<li><h4>{{place}}</h4></li></ul>"
+  // // //                + "<img src='{{photo-url}}'></a></li>"
+  // 			var geoJSON = Sheetsee.createGeoJSON(gData, optionsJSON)
+	 //   			var map = Sheetsee.loadMap("map")
+  //  			Sheetsee.addTileLayer(map, 'examples.map-20v6611k')
+  //   			var markerLayer = Sheetsee.addMarkerLayer(geoJSON, map, template)
+  //   		} 
+
+		// ---
+
+  window.onload = function() { init() };
+
+  var public_spreadsheet_url = 'https://docs.google.com/spreadsheets/d/1Aie4cWDamxeVnKrjfySL0cFk1XPgmy-MhKt2-gp7XFc/pubhtml';
+
+  function init() {
+    Tabletop.init( { key: public_spreadsheet_url,
+                     callback: showInfo,
+                     simpleSheet: true } )
+  }
+
+  function showInfo(data, tabletop) {
+    alert("Successfully processed!")
+    console.log(data);
+  }
+//			---
+
         // Mapbox load map code
 			// var map = L.mapbox.map('map', 'examples.map-9ijuk24y')
     		// .setView([37.238756 , -76.509673], 10);
@@ -73,9 +104,7 @@
 
 		// var map = Sheetsee.loadMap("map")
 
-		// var URL = "1Aie4cWDamxeVnKrjfySL0cFk1XPgmy-MhKt2-gp7XFc"
-
-		// var URL = "https://docs.google.com/spreadsheets/d/1Aie4cWDamxeVnKrjfySL0cFk1XPgmy-MhKt2-gp7XFc/pubhtml"
+		// var URL = "1Aie4cWDamxeVnKrjfySL0cFk1XPgmy-MhKt2-gp7XFc"	
 
 		// var tabletop = Tabletop.init( { key: URL, callback: showInfo } )
 
@@ -84,17 +113,9 @@
      		// Tabletop.init( { key: URL, callback: showInfo, simpleSheet: true } )
    		// })
 
-  //  		// function showInfo(data) {
-  //   			gData = data
-  //   			var optionsJSON = ["date", "place"]
-  //   			var template = "<ul><li><a href='{{date}}' target='_blank'>"
-  //   			+ "<li><h4>{{place}}</h4></li></ul>"
-  // //                + "<img src='{{photo-url}}'></a></li>"
-  //   			var geoJSON = Sheetsee.createGeoJSON(gData, optionsJSON)
-	 //   			var map = Sheetsee.loadMap("map")
-  //   			Sheetsee.addTileLayer(map, 'examples.map-20v6611k')
-  //   			var markerLayer = Sheetsee.addMarkerLayer(geoJSON, map, template)
-  //  }
+
+//		}
+ 
 		</script>
 
     </div>
