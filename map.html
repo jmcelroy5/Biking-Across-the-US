@@ -66,12 +66,12 @@
      		 Tabletop.init( { key: URL, callback: showInfo, simpleSheet: true } )
    		 })
 
-   		  	 	function showInfo(data) {
+   		  	 function showInfo(data) {
    				gData = data
-    			var optionsJSON = ["date", "place","photo-url"]
+    			var optionsJSON = ["date", "place", "photo-url"]
 			 	var template = "<ul><li><a href='{{photo-url}}' target='_blank'>"
                   				+ "<img src='{{photo-url}}'></a></li>"
-                  				+ "<li><h4>{{place}</h4></li></ul>"
+                  				+ "<li><h4>{{place}}</h4></li></ul>"
    				var geoJSON = Sheetsee.createGeoJSON(gData, optionsJSON);
 	   			var map = Sheetsee.loadMap("map");
    				Sheetsee.addTileLayer(map, 'examples.map-9ijuk24y');
