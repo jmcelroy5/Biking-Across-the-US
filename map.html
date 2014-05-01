@@ -61,20 +61,20 @@
 // // Sheetsee maps demo code
 
      	 document.addEventListener('DOMContentLoaded', function() {
-     		 var gData
+     		 // var gData
      		 var URL = "https://docs.google.com/spreadsheets/d/1Aie4cWDamxeVnKrjfySL0cFk1XPgmy-MhKt2-gp7XFc/pubhtml"
      		 Tabletop.init( { key: URL, callback: showInfo, simpleSheet: true } )
    		 })
 
    		  	 	function showInfo(data) {
-   				gData = data
+   				// gData = data
     			var optionsJSON = ["date", "place","photo-url"]
 			 	var template = "<ul><li><a href='{{date}}' target='_blank'>"
-  	  			+ "<li><h4>{{place}}</h4></li></ul>"
-                  + "<img src='{{photo-url}}'></a></li>"
+                  				+ "<img src='{{photo-url}}'></a></li>"
+                  				+ "<li><h4>{{place}}</h4></li></ul>"
    				var geoJSON = Sheetsee.createGeoJSON(gData, optionsJSON)
 	   			var map = Sheetsee.loadMap("map")
-   				Sheetsee.addTileLayer(map, 'examples.map-20v6611k')
+   				Sheetsee.addTileLayer(map, 'examples.map-9ijuk24y')
     			var markerLayer = Sheetsee.addMarkerLayer(geoJSON, map, template)
     		} 
 
