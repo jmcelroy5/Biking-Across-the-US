@@ -71,8 +71,7 @@
     			var optionsJSON = ["date", "place", "photo-url"]
 			 	var template = "<a href='{{photo-url}}' target='_blank'>"
                  + "<img src='{{photo-url}}' height='50' /></a>"
-                 + "<p><strong>{{place}}</strong></p>"
-                 + "<p>{{date}}</p>"
+                 + "<p><strong>{{place}}</strong><br>{{date}}<br>{{note}}</p>"
    				var geoJSON = Sheetsee.createGeoJSON(gData, optionsJSON);
 	   			var map = Sheetsee.loadMap("map");
    				Sheetsee.addTileLayer(map, 'examples.map-9ijuk24y');
