@@ -69,10 +69,10 @@
    		  	 function showInfo(data) {
    				gData = data
     			var optionsJSON = ["date", "place", "photo-url"]
-			 	var template = "<ul><li><a href='{{photo-url}}' target='_blank'>"
-                 + "<img src='{{photo-url}}' height='50' /></a></li>"
-                 + "<li><p>{{place}}</p></li>"
-                 + "<li><p>{{date}}</p></ul>"
+			 	var template = "<a href='{{photo-url}}' target='_blank'><br>"
+                 + "<img src='{{photo-url}}' height='50' /></a><br>"
+                 + "<p><em>{{place}}</em></p><br>"
+                 + "<p>{{date}}</p>"
    				var geoJSON = Sheetsee.createGeoJSON(gData, optionsJSON);
 	   			var map = Sheetsee.loadMap("map");
    				Sheetsee.addTileLayer(map, 'examples.map-9ijuk24y');
