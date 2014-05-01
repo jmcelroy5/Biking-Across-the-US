@@ -57,31 +57,44 @@
 
 
         <script>
+
+        function init() {
+  			Tabletop.init( { key: '1Aie4cWDamxeVnKrjfySL0cFk1XPgmy-MhKt2-gp7XFc',
+            callback: function(data, tabletop) { console.log(data) },
+            simpleSheet: true } )
+			}
+
+		init();
         // Mapbox load map code
 			// var map = L.mapbox.map('map', 'examples.map-9ijuk24y')
     		// .setView([37.238756 , -76.509673], 10);
 
 // // Sheetsee maps demo code
 
-		var map = Sheetsee.loadMap("map")
+		// var map = Sheetsee.loadMap("map")
 
-     	document.addEventListener('DOMContentLoaded', function() {
-     		var gData
-     		var URL = "https://docs.google.com/spreadsheets/d/1Aie4cWDamxeVnKrjfySL0cFk1XPgmy-MhKt2-gp7XFc/pubhtml"
-     		Tabletop.init( { key: URL, callback: showInfo, simpleSheet: true } )
-   		})
+		// var URL = "1Aie4cWDamxeVnKrjfySL0cFk1XPgmy-MhKt2-gp7XFc"
 
-   		function showInfo(data) {
-    			gData = data
-    			var optionsJSON = ["placename", "photo-url"]
-    			var template = "<ul><li><a href='{{date}}' target='_blank'>"
-    			+ "<li><h4>{{place}}</h4></li></ul>"
-  //                + "<img src='{{photo-url}}'></a></li>"
-    			var geoJSON = Sheetsee.createGeoJSON(gData, optionsJSON)
-	   			var map = Sheetsee.loadMap("map")
-    			Sheetsee.addTileLayer(map, 'examples.map-20v6611k')
-    			var markerLayer = Sheetsee.addMarkerLayer(geoJSON, map, template)
-   }
+		// var URL = "https://docs.google.com/spreadsheets/d/1Aie4cWDamxeVnKrjfySL0cFk1XPgmy-MhKt2-gp7XFc/pubhtml"
+
+		// var tabletop = Tabletop.init( { key: URL, callback: showInfo } )
+
+     	// document.addEventListener('DOMContentLoaded', function() {
+     		// var gData
+     		// Tabletop.init( { key: URL, callback: showInfo, simpleSheet: true } )
+   		// })
+
+  //  		// function showInfo(data) {
+  //   			gData = data
+  //   			var optionsJSON = ["date", "place"]
+  //   			var template = "<ul><li><a href='{{date}}' target='_blank'>"
+  //   			+ "<li><h4>{{place}}</h4></li></ul>"
+  // //                + "<img src='{{photo-url}}'></a></li>"
+  //   			var geoJSON = Sheetsee.createGeoJSON(gData, optionsJSON)
+	 //   			var map = Sheetsee.loadMap("map")
+  //   			Sheetsee.addTileLayer(map, 'examples.map-20v6611k')
+  //   			var markerLayer = Sheetsee.addMarkerLayer(geoJSON, map, template)
+  //  }
 		</script>
 
     </div>
