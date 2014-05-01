@@ -68,9 +68,9 @@
 
    		  	 	function showInfo(data) {
    				gData = data
-    			var optionsJSON = ["date", "place"]
+    			var optionsJSON = ["date", "place","photo-url"]
 			 	var template = "<ul><li><a href='{{date}}' target='_blank'>"
-  //	  			+ "<li><h4>{{place}}</h4></li></ul>"
+  	  			+ "<li><h4>{{place}}</h4></li></ul>"
                   + "<img src='{{photo-url}}'></a></li>"
    				var geoJSON = Sheetsee.createGeoJSON(gData, optionsJSON)
 	   			var map = Sheetsee.loadMap("map")
