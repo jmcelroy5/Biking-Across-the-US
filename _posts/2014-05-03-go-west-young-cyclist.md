@@ -32,8 +32,8 @@ I stopped in Williamsburg, where I saw historic buildings and people walking aro
 
 The riding today was very pleasant, mostly along the Colonial Parkway, and then along the Capital Trail, where I got a break from riding with cars. Further along, the trail was still under construction, so I kept hopping between stretches of velvety fresh asphalted bike path and the two-lane highway.
 
-My riding goal for today was Charles City (pop. 133,not really a city, sorry Charles), about 42 miles from Yorktown. Sharon had told me about the Courthouse Grill where the owners might have some advice on where to pitch my tent in the area. They encouraged me to set up my tent in the restaurant's backyard and offered to let the sherif know I would be there. 
+My riding goal for today was Charles City (pop. 133, not really a city, sorry Charles), about 42 miles from Yorktown. Sharon had told me about the Courthouse Grill where the owners were friendly and might have some advice on where to pitch my tent in the area. Sure enough, they were super friendly. They said I could set up my tent in the restaurant's backyard and even offered to let the sherif know I would be there. 
 
-Now I'm settled snug as a bug in my tent, listening to people in the nearby parking lot as they leave the restaurant. I'm exhausted but eager to see what day 2 will bring. 
+Now I'm settled snug as a bug in my sleeping bag, listening to people in the nearby parking lot as they leave the restaurant. I'm exhausted but eager to see what day 2 will bring. 
 
 [I'll go back and add pictures when I get to a computer]
