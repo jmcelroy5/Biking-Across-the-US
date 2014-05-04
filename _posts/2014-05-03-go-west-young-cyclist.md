@@ -14,7 +14,7 @@ Last night I landed at Richmond International and took a cab downtown to meet my
 
 Working at an artsy, metaphysical gem store seemed to make Kate acquainted with the characters of the neighborhood. This morning at a coffeeshop, a man walked up and gave us the astrological forecast then made a date with her to read her tarot cards. 
 
-Kate is really interested in gems and botany and said she's applying for an internship at an outdoor education camp in Santa Cruz. It would be amazing to find her on the West Coast when I get back. As I was leaving, she gave me two stones, jade and bloodstone, for protection on my ride. 
+Kate is really interested in geology and botany and said she's applying for an internship at an outdoor education camp in Santa Cruz. It would be amazing to find her on the West Coast when I get back. As I was leaving, she gave me two stones, jade and bloodstone, for protection on my ride. 
 
 #### Getting on the Trail
 
