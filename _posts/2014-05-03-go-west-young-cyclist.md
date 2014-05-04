@@ -12,7 +12,7 @@ Right now I'm sitting at the Courthouse Grill in Charles City, Virginia where I 
 
 Last night I landed at Richmond International and took a cab downtown to meet my CouchSurfing host, Kate. She works at a shop called Beads and Rocks, so I touched base with her there then set out to roam the streets until she freed up at 10:00. It happened to be First Fridays, so there was plenty going on in the streets. The hipsters of VCU give San Francisco hipsters a run for their money! 
 
-Working at an artsy, metaphysical gem store seemed to make Kate acquainted with the characters of the neighborhood. This morning at a coffeeshop, a man walked up and gave us the astrological forecast then made a date with her to read her tarot cards. 
+Working at an artsy, metaphysical gem store seemed to make Kate acquainted with the characters of the neighborhood. This morning at a coffeeshop, a man she knew gave us the astrological forecast then made a date with her to read her tarot cards. 
 
 Kate is really interested in geology and botany and said she's applying for an internship at an outdoor education camp in Santa Cruz. It would be amazing to find her on the West Coast when I get back. As I was leaving, she gave me two stones, jade and bloodstone, for protection on my ride. 
 
@@ -22,7 +22,7 @@ I got an amazing amount of help getting started from Sharon and Robert from Red 
 
 We put the bike in the car and headed for Yorktown, where the TransAm begins, stopping for lunch at a local drive-up diner on the way. I got a chicken fried steak sandwich that would be more than enough to fuel the ride ahead of me. Sharon looked over my map with me and gave me an idea of what to expect over the next several days.
 
-At Yorktown, I followed the TransAm tradition of dipping my back tires in the water and taking a picture with the Yorktown Victory Monument. Then I set off toward Williamsburg, watching eagles soar overhead and feeling vaguely patriotic. 
+At Yorktown Beach, I followed the TransAm tradition of dipping my back tires in the water and taking a picture with the Yorktown Victory Monument. Then I set off toward Williamsburg, watching eagles soar overhead and feeling vaguely patriotic. 
 
 #### Williamsburg
  
