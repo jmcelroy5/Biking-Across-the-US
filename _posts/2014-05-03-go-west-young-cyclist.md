@@ -10,7 +10,7 @@ Right now I'm sitting at the Courthouse Grill in Charles City, Virginia where I 
 
 #### A night in Richmond
 
-Last night I landed in Richmond and took a cab to downtown Richmond to meet my CouchSurfing host, Kate. She works at a shop called Beads and Rocks, so I touched base with her there then set out to roam the streets until she freed up at 10:00. It happened to be First Fridays, so there was plenty going on in the streets. The hipsters of VCU give San Francisco hipsters a run for their money! 
+Last night I landed at Richmond International and took a cab downtown to meet my CouchSurfing host, Kate. She works at a shop called Beads and Rocks, so I touched base with her there then set out to roam the streets until she freed up at 10:00. It happened to be First Fridays, so there was plenty going on in the streets. The hipsters of VCU give San Francisco hipsters a run for their money! 
 
 Working at an artsy, metaphysical gem store seemed to make Kate acquainted with the characters of the neighborhood. This morning at a coffeeshop, a man walked up and gave us the astrological forecast then made a date with her to read her tarot cards. 
 
@@ -36,4 +36,4 @@ My riding goal for today was Charles City (pop. 133,not really a city, sorry Cha
 
 Now I'm settled snug as a bug in my tent, listening to people in the nearby parking lot as they leave the restaurant. I'm exhausted but eager to see what day 2 will bring. 
 
-[I'll go back and add pictures when I get to a computer] 
+[I'll go back and add pictures when I get to a computer]
