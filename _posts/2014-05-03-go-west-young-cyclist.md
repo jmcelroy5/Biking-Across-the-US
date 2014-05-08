@@ -2,6 +2,7 @@
 layout: post
 date: 2014-05-03
 title: "Go West, Young Cyclist"
+image-url: http://i.imgur.com/3jnggfV.png
 excerpt: "Right now I'm sitting at the Courthouse Grill in Charles City, Virginia where I just scarfed down a BBQ pulled pork sandwich and the most refreshing beer ever. I'm typing away on my ipad, reflecting on my first day on the TransAmerica Trail and wondering how I could possibly do it justice."
 tags:
 ---
@@ -36,4 +37,4 @@ My riding goal for today was Charles City (pop. 133, not really a city, sorry Ch
 
 Now I'm settled snug as a bug in my sleeping bag, listening to people in the nearby parking lot as they leave the restaurant. I'm exhausted but eager to see what day 2 will bring. 
 
-[I'll go back and add pictures when I get to a computer]
+[I'll go back and add pictures when I get to a computer
