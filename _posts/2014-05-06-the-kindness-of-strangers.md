@@ -3,7 +3,7 @@ layout: post
 title: "The Kindness of Strangers"
 date: 2014-05-06
 image-url: "http://i.imgur.com/250DPhw.jpg"
-excerpt: "When you talk to people who have travelled a lot, one thing they will tell you is that people everywhere are generally good, and they will undoubtedly have stories about times when strangers went out of their way to help them. Traveling alone on this bike trip, I  expected to have to rely on the kindness and hospitality of strangers, from asking for directions to staying overnight at the many churches that offer lodging for cyclists along the TransAmerica Trail. I could not have expected, however, the unsolicited kindness I've already experienced in just a few days of biking. "
+excerpt: "When you talk to people who have travelled a lot, one thing they will tell you is that people everywhere are generally good, and they will undoubtedly have stories about times when strangers went out of their way to help them. Traveling alone on this bike trip, I  expected to have to rely on the kindness and hospitality of strangers, from asking for directions to staying overnight at the many churches that offer lodging for cyclists along the TransAmerica Trail. I could not have expected, however, the unsolicited kindness I've already experienced in just a few days of biking."
 tags:
 ---
 When you talk to people who have travelled a lot, one thing they will tell you is that people everywhere are generally good, and they will undoubtedly have stories about times when strangers went out of their way to help them. Traveling alone on this bike trip, I  expected to have to rely on the kindness and hospitality of strangers, from asking for directions to staying overnight at the many churches that offer lodging for cyclists along the TransAmerica Trail. 
