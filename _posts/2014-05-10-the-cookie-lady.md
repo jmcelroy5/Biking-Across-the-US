@@ -2,8 +2,7 @@
 layout: post
 title: "The Cookie Lady"
 image-url:"http://i.imgur.com/atUfe9f.jpg"
-excerpt: "The Cookie Lady, whose real name was June Curry, is legendary on the TransAmerican Trail. Since 1976, the year of the inaugural Bikecentennial ride, she offered cookies and hospitality to cyclists in her home in a remote town just before the Appalachians. She passed away a few years ago, but her guest house (the Bike House) is kept open for cyclists to stay overnight. I called the day before I was planning to pass through town to make sure there was space was available. The lady I spoke to said the back door would be unlocked and to just let myself in. 
-"
+excerpt: "The Cookie Lady, whose real name was June Curry, is legendary on the TransAmerican Trail. Since 1976, the year of the inaugural Bikecentennial ride, she offered cookies and hospitality to cyclists in her home in a remote town just before the Appalachians. She passed away a few years ago, but her guest house (the Bike House) is kept open for cyclists to stay overnight. I called the day before I was planning to pass through town to make sure there was space was available. The lady I spoke to said the back door would be unlocked and to just let myself in."
 tags:
 ---
 
