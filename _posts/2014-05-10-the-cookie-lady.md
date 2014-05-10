@@ -2,6 +2,7 @@
 layout: post
 title: "The Cookie Lady"
 image-url:"http://i.imgur.com/atUfe9f.jpg"
+date: 2014-05-10
 excerpt: "The Cookie Lady, whose real name was June Curry, is legendary on the TransAmerican Trail. Since 1976, the year of the inaugural Bikecentennial ride, she offered cookies and hospitality to cyclists in her home in a remote town just before the Appalachians. She passed away a few years ago, but her guest house (the Bike House) is kept open for cyclists to stay overnight. I called the day before I was planning to pass through town to make sure there was space was available. The lady I spoke to said the back door would be unlocked and to just let myself in."
 tags:
 ---
@@ -20,4 +21,4 @@ As night fell, I started to become keenly aware of how alone I was there. The ho
 
 Needless to say, it was not the most restful night. But I am still really glad I got to stay there so I could be a part of the TransAmerican Trail tradition. I signed the guestbook and left my mark on the house with a "Viva la bici" sticker from the East Bay Bicycle Coalition and a bicycle-themed card my mom gave me when I left that said, "Wind in your hair, sun on your face, in a good place."
 
-Though she didn't even ride a bike herself, June Curry loved the TransAm cyclists, and she continued her hospitality even as her health declined in her last years. I think it's so cool that she found her way to brighten others' lives, and in doing so she brought the world to her doorstep.
+Though she didn't even ride a bike herself, June Curry loved the TransAm cyclists, and she continued her hospitality even as her health declined in her last years. I think it's so cool that she found her way to brighten others' lives, and in doing so she brought the world to her doorstep
