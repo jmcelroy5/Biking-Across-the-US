@@ -37,4 +37,4 @@ In the morning (after an incredible breakfast of bacon, cheesy grits, and coffee
 
 ![alt text](http://i.imgur.com/wuwv929l.jpg)
 
-I had thought that looking for a host in Lexington was a shot in the dark, but little did I know I would end up with hosts that have become a regular stopover for cyclists, almost as much a fixture of the trail as the Cookie Lady! They are TransAmerican trail angels, and I will always consider my time with them as a highlight of my tr
+I had thought that looking for a host in Lexington was a shot in the dark, but little did I know I would end up with hosts that have become a regular stopover for cyclists, almost as much a fixture of the trail as the Cookie Lady! They are TransAmerican trail angels, and I am sure I will always consider my time with them a highlight of my trip.
