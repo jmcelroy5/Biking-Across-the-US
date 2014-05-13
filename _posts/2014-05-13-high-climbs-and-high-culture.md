@@ -23,7 +23,7 @@ Arriving at the Taylors' farm, overheated and exhausted, was like stepping into 
 
 ![alt text](http://i.imgur.com/ucdkmfVl.jpg)
 
-The show was amazing. The dancers had come from the New York City Ballet and several other big city dance companies for this festival in Lexington. Sitting there, mesmerized by the dancers, I laughed to myself what an unexpected turn my day had taken. We went to a party after the show where they had food trucks, beer from local breweries, and a couple of bands playing. 
+The show was amazing. The dancers had come from the New York City Ballet and several other big city dance companies for this festival in Lexington. Sitting there, mesmerized by the dancers, I laughed to myself, thinking about what an unexpected turn my day had taken. We went to a party after the show where they had food trucks, beer from local breweries, and a couple of bands playing. 
 
 The Taylors were a fascinating couple. I was inspired by how they so regularly and warmly welcome travelers into their home and lives. They had several Brazilian exchange students when their children were younger, and their guestbook was brimming with TransAmerican cyclists they had hosted over the years.
 
@@ -37,4 +37,4 @@ In the morning (after an incredible breakfast of bacon, cheesy grits, and coffee
 
 ![alt text](http://i.imgur.com/wuwv929l.jpg)
 
-I had thought that looking for a host in Lexington was a shot in the dark, but little did I know I would end up with hosts that have become a regular stopover for cyclists, almost as much a fixture of the trail as the Cookie Lady! They are TransAmerican trail angels, and I will always consider my time with them as a highlight of my trip
+I had thought that looking for a host in Lexington was a shot in the dark, but little did I know I would end up with hosts that have become a regular stopover for cyclists, almost as much a fixture of the trail as the Cookie Lady! They are TransAmerican trail angels, and I will always consider my time with them as a highlight of my tri
