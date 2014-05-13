@@ -95,7 +95,7 @@ function getLast(array, howMany) {
  
 function showData(data) {
    var template = document.getElementById("instagram-template").innerHTML;
-   var output = Mustache.render(template, { rows: getLast(data,9) });
+   var output = Mustache.render(template, { rows: getLast(data,12) });
    document.getElementById('instagram').innerHTML = output;
  }
 
