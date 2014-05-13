@@ -3,7 +3,7 @@ layout: post
 title: "High Climbs and High Culture"
 date: 2014-05-13
 image-url: "http://i.imgur.com/WX75AArl.jpg"
-excerpt: "Last Thursday was my first really tough ride. tackled a portion of the Blue Ridge Parkway, a chain of mountains that makes for one of the most scenic drives in the US and one of the most grueling days on the TransAmerican Trail. Up until that point the ride had been gentle with nothing but flat stretches and rolling country hills, but all the while I felt the Appalachians looming ahead."
+excerpt: "Last Thursday was my first really tough ride. I tackled a portion of the Blue Ridge Parkway, a chain of mountains that makes for one of the most scenic drives in the US and one of the most grueling days on the TransAmerican Trail. Up until that point the ride had been gentle with nothing but flat stretches and rolling country hills, but all the while I felt the Appalachians looming ahead."
 ---
 Last Thursday was my first really tough ride. tackled a portion of the Blue Ridge Parkway, a chain of mountains that makes for one of the most scenic drives in the US and one of the most grueling days on the TransAmerican Trail. Up until that point the ride had been gentle with nothing but flat stretches and rolling country hills, but all the while I felt the Appalachians looming ahead. had been looking forward to this explosion in the route elevation chart with both excitement and dread (traveling right to left):
 
