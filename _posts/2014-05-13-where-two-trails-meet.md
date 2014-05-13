@@ -15,7 +15,7 @@ When I arrived at the park it was just beginning to rain hard, and I felt so rel
 
 Finally the kids' birthday party ended and I was alone in the park. I fell asleep around 10:00, but then around midnight I was awoken to the sound of rustling bags and someone blowing up a sleeping pad. It was a young AT hiker whose arrival was followed shortly by an elderly AT hiker. We all chatted a bit as they got set up, and then we settled down to get some sleep.
 
-Just as I was drifting off, I heard country music in the distance that seemed to grow louder. I sat up and was startled to see a young man in all camo with a small pack on his back, carrying a long stick on his shoulders. He called out to us, despite the fact that we were all obviously sleeping. I felt bewildered and distrustful.
+Just as I was drifting off again, I heard country music in the distance that seemed to grow louder. I sat up and was startled to see a young man in all camo with a small pack on his back, carrying a long stick on his shoulders. He called out to us, despite the fact that we were all obviously sleeping. I felt bewildered and distrustful.
 
 It turned out this camo-clad country boy was another AT hiker, but unlike the others his pack was ultralight, because, as he explained, "This ain't my first rodeo." He set up his sleeping bag next to mine and proceeded to talk my ears off for the next hour. As we talked, though, my wariness dissipated and I began to trust and respect him. He told me about growing up in Kentucky, his love life, his ex-wife, his adventures traveling around the US, that one time when he rigged a chainsaw motor to a bicycle, and how he manages to hike more than double the daily mileage of the average AT hiker. 
 
