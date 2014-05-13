@@ -9,7 +9,7 @@ Last Thursday was my first really tough ride. tackled a portion of the Blue Ridg
 
 ![alt text](http://i.imgur.com/12OIlXAl.jpg)
 
-I spent the entire morning crawling up impossibly long ascents at no more than 5mph. It was exhausting, and after a few hours of nonstop climbing all I could do was laugh at the road that rose endlessly upward. At each bend in the road I kept hoping for a reprieve around the corner, but more often than not there was just more climbing. At least I had great weather for it, though, 80 degrees and sunny, perfect for enjoying the views of the Shenandoah Valley below. 
+I spent the entire morning crawling up impossibly long ascents. It was exhausting, and after a few hours of climbing all I could do was laugh at the road that rose endlessly upward. At each bend in the road I kept hoping for a reprieve around the corner, but more often than not there was just more climbing. At least I had great weather for it, 80 degrees and sunny, perfect for enjoying the views of the Shenandoah Valley below. 
 
 ![alt text](http://i.imgur.com/Ki8RJ30l.jpg)
 
