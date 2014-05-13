@@ -3,7 +3,7 @@ layout: post
 title: "Where Two Trails Meet"
 date: 2014-05-13
 image-url: "http://i.imgur.com/LjiK5nE.jpg"
-excerpt: "here are several points in this region where the TransAmerican Trail runs into the Appalachian Trail. The AT goes all the way from Georgia to Maine, and it's an incredibly popular hike among people of all ages looking for an adventure and with 5 to 6 months to spare. The other night I stayed in a small town called Troutville, where they allow TA cyclists and AT hikers to camp."
+excerpt: "There are several points in this region where the TransAmerican Trail runs into the Appalachian Trail. The AT goes all the way from Georgia to Maine, and it's an incredibly popular hike among people of all ages looking for an adventure and with 5 to 6 months to spare. The other night I stayed in a small town called Troutville, where they allow TA cyclists and AT hikers to camp."
 tags:
 ---
 
@@ -50,4 +50,4 @@ For all the camaraderie, AT is still an incredible mental and physical challenge
 
 Spending time with the AT hikers was interesting, but it actually made me feel even better about my decision to bike across the US. Bike touring just suits me better. After two days of socializing, I was exhausted and ready to retreat into my head to think and reflect. If I were on the trail, I wouldn't get a chance to do that. I also like the freedom of independently deciding how far I'm going to go and what I'm going to do each day. Having to navigate social dynamics or wait on others or rely on group decision making would feel constraining. Not that it wouldn't be a wonderful growth experience, but it's just not the kind of adventure I'm looking for right now.
 
-Bike touring is certainly a more solitary experience. For my entire first week of riding I had only seen one other group of TransAm bikers, who I passed up and never saw again. This means that I need to work a little harder to ward off loneliness. I have to go a little more out of my way engage with people along the trip, but that is a challenge that I welcome. Years of traveling and CouchSurfing have taught me how to make fleeting but meaningful connections with people I meet. I enjoy meeting a wide variety of people and getting a little glimpse of their lives when our trails intersect. 
+Bike touring is certainly a more solitary experience. For my entire first week of riding I had only seen one other group of TransAm bikers, who I passed up and never saw again. This means that I need to work a little harder to ward off loneliness. I have to go a little more out of my way engage with people along the trip, but that is a challenge that I welcome. Years of traveling and CouchSurfing have taught me how to make fleeting but meaningful connections with people I meet. I enjoy meeting a wide variety of people and getting a little glimpse of their lives when our trails intersect.
