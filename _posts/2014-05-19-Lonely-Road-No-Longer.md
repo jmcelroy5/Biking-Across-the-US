@@ -57,7 +57,7 @@ Damascus owes its existence to the many trails that run through it and proudly c
 
 ![alt text](http://i.imgur.com/yk6Mm4Fl.jpg "Hiker packs outside the cheesesteak restaurant in Damascus")
 
-We had dinner and beers at a great cheesesteak place and then went to find The Place, a donation-based hiker/biker hostel run by a Methodist church. We received a warm welcome from Roy, who showed us to a spot in their yard reserved for TransAm cyclists. He explained that the hostel was originally established for cyclists but there weren't enough to sustain it, so they opened up to "dirty hikers" too. 
+We had dinner and beers at a great cheesesteak restaurant and then went to find The Place, a donation-based hiker/biker hostel run by a Methodist church. We received a warm welcome from Roy, who showed us to a spot in their yard reserved for TransAm cyclists. He explained that the hostel was originally established for cyclists but there weren't enough to sustain it, so they opened up to "dirty hikers" too. 
 
 I took a glorious shower, scraping off layers of sunscreen, bike grease, and road grime off my legs. Then I plopped down on the hostel couches and made conversation with some of the dirty hikers. A lot of them were there for the upcoming Trail Days, a weekend where Appalachian Trail thru-hikers past and present descend upon Damascus for a big celebration. 
 
