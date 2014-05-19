@@ -55,7 +55,7 @@ The next day Tuan and I rode 60 miles along more rolling country hills and a few
 
 Damascus owes its existence to the many trails that run through it and proudly calls itself "The friendliest trail town." It's the crossroads of the TransAmerica Trail, the Virginia Creeper Trail, the Appalachian Trail, plus many other hiking/biking trails, and it's the gateway to the Mount Rogers wilderness. It's a small town, but it's a paradise for weary hikers and bikers. 
 
-![alt text]http://i.imgur.com/yk6Mm4Fl.jpg "Hiker packs outside the cheesesteak restaurant in Damascus")
+![alt text](http://i.imgur.com/yk6Mm4Fl.jpg "Hiker packs outside the cheesesteak restaurant in Damascus")
 
 We had dinner and beers at a great cheesesteak place and then went to find The Place, a donation-based hiker/biker hostel run by a Methodist church. We received a warm welcome from Roy, who showed us to a spot in their yard reserved for TransAm cyclists. He explained that the hostel was originally established for cyclists but there weren't enough to sustain it, so they opened up to "dirty hikers" too. 
 
