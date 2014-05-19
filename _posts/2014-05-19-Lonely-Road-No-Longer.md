@@ -11,11 +11,13 @@ On the day I left Joe's hostel in Catawba, I was huffing and puffing up a hill w
 
 His name was Tuan, and it was actually his first day of riding, since he had started his trip from Blacksburg, VA. He's a Virginia Tech alum who left a job in software engineering to bike across the US. As we biked and talked it became clear I had met a like-minded soul, and we would get along very well.
 
-The three other guys were his friends from Blacksburg who were accompanying him for the first 40 miles to send him off on the journey. I felt so reinvigorated by having company that the ride felt easier and the miles flew by. It was nice to not have to worry about navigating and to have people to talk to during water and snack breaks.
+The three other guys were his friends from Blacksburg who were accompanying him for the first 40 miles to send him off on the journey. 
 
 ![alt text](http://i.imgur.com/KfKNPyvl.jpg "Tuan and his send-off crew")
 
 One of the guys is actually moving to San Francisco this summer for a job. Another guy has been wanting to do the TransAm (and actually gave Tuan the idea), but the bike he's building for it is still incomplete and he felt too mired down at work to get away this year. I encouraged him to make it happen in 2015! Well, hopefully he found it encouraging and not just annoying. haha
+
+I felt so reinvigorated by having company that the ride felt easier and the miles flew by. It was nice to not have to worry about navigating and to have people to talk to during water and snack breaks.
 
 Tuan's bike was a bit more heavily loaded than mine, with lots of gadgets and various loose items attached somewhat precariously to the outside of his bags:
 
