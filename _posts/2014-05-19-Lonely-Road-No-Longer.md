@@ -61,7 +61,7 @@ We had dinner and beers at a great cheesesteak restaurant and then went to find 
 
 I took a glorious shower, scraping off layers of sunscreen, bike grease, and road grime off my legs. Then I plopped down on the hostel couches and made conversation with some of the dirty hikers. A lot of them were there for the upcoming Trail Days, a weekend where Appalachian Trail thru-hikers past and present descend upon Damascus for a big celebration. 
 
-We were lucky to get there during the calm before the storm. That weekend the town would blow up from its normal population of 1,000 to 10,000 or more. We were told that every spare patch of grass in town would be covered by tents and there would be "tent cities" erected on the edges town which would become hotbeds of revelry and debauchery.
+We were lucky to get there during the calm before the storm. That weekend the town would blow up from its normal population of 1,000 to 10,000 or more. We were told that every spare patch of grass in town would be covered by tents and there would be "tent cities" erected on the edges of town which would become hotbeds of revelry and debauchery.
 
 I had been riding for 6 days straight and was starting to feel a little run-down, so I decided to take a rest day in Damascus. It was a great place for it. I spent the morning working on my blog at a coffeeshop (the first one I'd seen since Charlottesville), did my laundry, bought some fuel for my camp stove, went to a taco place for dinner, and then putzed around the hostel talking to hikers. This is Dan, a hiker friend I made who is keeping a [blog](http://thejourneytotherock.blogspot.com) about his AT experience.
 
