@@ -36,7 +36,7 @@ I still had some hostile encounters after that, but I got much more confident at
 
 ![alt text](http://i.imgur.com/2ntvOZ0l.jpg)
 
-![alt text](http://i.imgur.com/By3cuyCl.jpg)
+![alt text](http://i.imgur.com/By3cuyC.png)
 
 The above photos are from a cyclist guestbook at a church where I camped in Booneville, KY. So at least I'm not alone in my experiences!
 
