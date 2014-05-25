@@ -6,12 +6,9 @@ image-url: "http://i.imgur.com/gRboj1Bl.jpg"
 excerpt: "After nearly two weeks of blissful, carefree riding through Virginia, I crossed the Kentucky state line and things changed pretty distinctly as the wide open pastoral landscapes gave way to steep, winding mountain roads and wooded valleys. Eastern Kentucky posed many new challenges, which will be the subject of this post, starting with a lengthy tirade about the biggest threat of all."
 tags:
 ---
-
-The Hazards of Eastern Kentucky
-
 After nearly two weeks of blissful, carefree riding through Virginia, I crossed the Kentucky state line and things changed pretty distinctly as the wide open pastoral landscapes gave way to steep, winding mountain roads and wooded valleys. Eastern Kentucky posed many new challenges, which will be the subject of this post, starting with a lengthy tirade about the biggest threat of all:
 
-###1. Loose Dogs!
+####1. Loose Dogs!
 
 Kentuckians have a lot of dogs. In some areas it seems like there are more dogs than people. Many of these dogs are just left to run loose around the countryside, and they love to chase after bikes. 
 
@@ -39,11 +36,11 @@ I still had some hostile encounters after that, but I got much more confident at
 
 ![alt text](http://i.imgur.com/2ntvOZ0l.jpg)
 
-![alt text](http://i.imgur.com/lmO2oUcl.jpg)
+![alt text](http://i.imgur.com/cqPUj65l.jpg)
 
 The above photos are from a cyclist guestbook at a church where I camped in Booneville, KY. So at least I'm not alone in my experiences!
 
-###2. The Appalachians
+####2. The Appalachians
 
 I had heard that the Appalachians were the toughest part of the entire TransAmerican Trail, and they certainly lived up to their reputation! Supposedly even the Rockies and the Sierras are easier, because the roads are built at a gentler grade. 
 
@@ -52,7 +49,7 @@ Making it up the mountain became a mental game. While granny gearing it up the w
 
 Now that I've emerged from the mountains into the rolling hills of bluegrass country, I am so relieved to have them behind me. One of the best things about riding the TransAm from east to west is that you get the hardest part over with first. With the Appalachians in your legs, you know you can handle anything that lies ahead of you.
 
-###3. Coal Trucks
+####3. Coal Trucks
 
 Once I crossed into Kentucky it became very clear that I had entered coal mining country. I passed by entrances to coal mining zones and saw entire mountaintops stripped bare. I saw yard signs calling to "stop the war on coal," bumper stickers proclaiming that "coal keeps the lights on", and political campaign signs with the slogan "friend of coal." Most of the locals I talked to worked in coal-related jobs.
 
@@ -60,7 +57,7 @@ Many of the roads I travelled on were also coal truck thoroughfares. I was told 
 
 Fortunately, though, I found that the vast majority of coal truck drivers were respectful and cautious around me. They would slow down and wait for an opportunity to pass safely, usually getting over into the opposite lane to allow me space. I was really grateful for that! Whenever I had a truck following me for a while, I would try to pull over into a driveway or off on the side of the road to let them go ahead. I figured it wouldn't hurt to build up some good karma with coal trucks.
 
-###4. Rumble Strips and Loose Gravel
+####4. Rumble Strips and Loose Gravel
 
 The Kentuckian AT hiker I met back in Virginia had warned me about the rumble strips coming up. He told me they're needed for "all the rednecks who drive around drunk," which he followed by saying "Just kidding! But not really."
 
@@ -68,7 +65,7 @@ Sure enough, on every road I rode on in Eastern Kentucky the outer white line wa
 
 In the very few places where there was a suitable amount of highway shoulder leftover for riding, you still had to ride cautiously, because there were often pebbles or loose gravel scattered there. Hitting a patch of gravel, especially when flying downhill, could make you lose control of your bike, and I had a couple of close calls.
 
-###5. Private Property 
+####5. Private Property 
 
 The quintessential American spirit of rugged individualism and pioneer pride is alive and well in the mountains of Eastern Kentucky. The people are very private, and there seems to be a fixation with designating their private property. Houses are spread apart, and almost every single one had some combination of "Private property", "No Trespassing", or "Beware of Dog" sign marking its territory. I had seen some of that in Virginia, but Kentucky was a new extreme. Every piece of property was marked, giving a kind of an ominous and unwelcoming vibe. 
 
@@ -76,7 +73,7 @@ My host at the cyclists' hostel, a native Kentuckian himself, said that he stron
 
 I observed signs of general distrust and wariness among people there. I had several people come up to me outside of gas stations and grocery stores and tell me I was brave for riding my bike on their roads and that they would never do it themselves. One person scoffed, saying "You have a lot more faith in humanity than I do." More than once I had men warn me to "watch out for idyits out thur." Lucky for me, I found that the idiots were few and far between. Drivers were generally considerate.
 
-###6. Unintelligible Accents
+####6. Unintelligible Accents
 
 This isn't a hazard, per se, but more a source of confusion and amusement. Eastern Kentuckians have a very distinct accent and way of talking that might as well have been a foreign language to me at times. 
 
@@ -84,14 +81,14 @@ Once I had stopped on the side of the road to reattach something that had fallen
 
 Another time I stopped into a McDonalds for a lunch. I placed my order, and the lady asked me, "Ya want tha comby?" I stared at her blankly and asked her to repeat the question, which didn't do anything for my clarity. So, I just hesitantly responded "no?" and finally realized when I got my order that "comby" was her pronunciation of "combo." 
 
-### 7. No Cell Phone Service
+####7. No Cell Phone Service
 
 The whole time I was in Eastern Kentucky I couldn't get a single bar of cell phone signal. Then when I reached Berea, a college town that marks the transition between the Appalachians and western Kentucky's bluegrass land, I suddenly had a full signal. Since then it's been hit or miss, but I can usually get a bar or two when I get into a town. 
 
-### 8. Dry Counties
+#### 8. Dry Counties
 
 Many counties in Kentucky are "dry," which means you can't buy alcohol there, not even beer or wine. Actually, this works out in my favor as a cyclist who is entrusting my life in the hands of drivers! That's why it's at the bottom of the list. I just thought it was amusing. Also, for all my beer-loving friends, you might consider it a hazard that even when beer is available, it's usually Bud Light or something similar. The horror! 
 
-### The Good Parts
+#### The Good Parts
 
 As entertaining as it is to rant about the challenges and quirks of Eastern Kentucky, it would be an unfair characterization if I did not also talk about its positive aspects. I found Kentucky to be a land of extremes - It has the most intense hills and the most vicious dogs, but these were counteracted by the incredible warmth and kindness of people I met. In the next post I'll talk about all the good experiences I had  while traveling through this state, which far outweigh the negative ones
