@@ -61,7 +61,7 @@ Fortunately, though, I found that the vast majority of coal truck drivers were r
 
 The Kentuckian AT hiker I met back in Virginia had warned me about the rumble strips coming up. He told me they're needed for "all the rednecks who drive around drunk," which he followed by saying "Just kidding! But not really."
 
-Sure enough, on every road I rode on in Eastern Kentucky the outer white line was indented with grooves, and the few times when I did have a shoulder it was mostly taken up by an even wider rumble strip. It's like riding on a tightrope - If you stray from riding in a straight line you'll get rattled and jolted awake.
+Sure enough, on every road I rode on in Eastern Kentucky the outer white line was indented with grooves, and the few times when I did have a shoulder it was mostly taken up by an even wider rumble strip. It's like riding on a tightrope or playing Operation - If you stray from riding in a straight line you'll get rattled and jolted awake.
 
 In the very few places where there was a suitable amount of highway shoulder leftover for riding, you still had to ride cautiously, because there were often pebbles or loose gravel scattered there. Hitting a patch of gravel, especially when flying downhill, could make you lose control of your bike, and I had a couple of close calls.
 
@@ -91,4 +91,4 @@ Many counties in Kentucky are "dry," which means you can't buy alcohol there, no
 
 #### The Good Parts
 
-As entertaining as it is to rant about the challenges and quirks of Eastern Kentucky, it would be an unfair characterization if I did not also talk about its positive aspects. I found Kentucky to be a land of extremes - It has the most intense hills and the most vicious dogs, but these were counteracted by the incredible warmth and kindness of people I met. In the next post I'll talk about all the good experiences I had  while traveling through this state, which far outweigh the negative ones.
+As entertaining as it is to rant about the challenges and quirks of Eastern Kentucky, it would be an unfair characterization if I did not also talk about its positive aspects. I found Kentucky to be a land of extremes - It has the most intense hills and the most vicious dogs, but these were counteracted by the incredible warmth and kindness of people I met. In the next post I'll talk about all the good experiences I had  while traveling through this state, which far outweigh the negative ones
