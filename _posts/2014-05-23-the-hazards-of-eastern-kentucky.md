@@ -2,8 +2,8 @@
 layout: post
 date: 05-23-2014
 title: "The Hazards of Eastern Kentucky"
-image-url: "http://i.imgur.com/gRboj1B.png"
-excerpt: "After nearly two weeks of blissful, carefree riding through Virginia, I crossed the Kentucky state line and things changed pretty distinctly as the wide open pastoral landscapes gave way to steep, winding mountain roads and wooded valleys. Eastern Kentucky posed many new challenges, which will be the subject of this post, starting with a lengthy tirade about the biggest threat of all."
+image-url: "http://www.appalshop.org/film/coalbucket/images/press/1-19COALB-1-4.jpg"
+excerpt:"After nearly two weeks of blissful, carefree riding through Virginia, I crossed the Kentucky state line and things changed pretty distinctly as the wide open pastoral landscapes gave way to steep, winding mountain roads and wooded valleys. Eastern Kentucky posed many new challenges, which will be the subject of this post, starting with a lengthy tirade about the biggest threat of all."
 tags:
 ---
 
