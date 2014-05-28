@@ -76,13 +76,13 @@ After we had gotten settled and freshened up, Violet invited us back to their ho
 
 Bob and Violet sort of accidentally became TransAmericanTrail angels. Way back in the early 80s when Bob started pastoring at that church, they didn't know that it was located directly on the route. They realized it when cyclists began regularly appearing at their door asking for water, because the designated camping area in the town park down the road often didn't have it. Violet started offering the cyclists meals or even invited them to sleep on their couch. Gradually word got out among cross-country cyclists, and eventually the ACA marked the church on the TransAm map as cyclist lodging without even consulting Bob and Violet! 
 
-But they saw it as their ministry, and they have been happy to continue assuming that role. When the church built a new youth center Bob asked them if they wouldn't mind sharing the space, and now it's officially a refuge for cyclists. The service they provide seems to dovetail really nicely with their church's mission, since it gives them an opportunity to share their faith with people who find themselves in a time of transition. Bob made the insightful observation that most long-distance cyclists are seeking a greater truth. People generally don't just decide to bike across the country unless they're at least somewhat discontented.
+But they saw it as their ministry, and they have been happy to continue assuming that role. When the church built a new youth center Bob asked them if they wouldn't mind sharing the space, and now it's officially a refuge for cyclists. The service they provide seems to dovetail nicely with the church's mission, since it gives them an opportunity to share their faith with people who find themselves in a time of transition. Bob made the insightful observation that most long-distance cyclists are seeking a greater truth. People generally don't just decide to bike across the country unless they're at least somewhat discontented.
 
 I think it's common for people to want to help others or be hospitable on their own terms (when it's convenient for them), but Bob and Violet made me realize what an even deeper level of service looks like. No matter the day of the week or what personal plans they have made, they will take in any passing cyclist at a moment's notice and make sure they are housed and fed. It amazes me that they would so unconditionally and warmly open their private home and family time to total strangers! Just as the family at the Double L Grocery and David at the cyclists' hostel did as well.
 
 ![alt text](http://i.imgur.com/0w0fXNXl.jpg)
 
- As we were eating dessert and Violet was showing us pictures and newspaper clippings of past cyclists she hosted, Bob suddenly said, "Hey! I almost forgot it's country western night." Violet immediately jumped up and we all scrambled into their to go to their town community center, where every Friday night a group of elderly people gets together to play country music and dance two-step. 
+ As we were eating dessert and Violet was showing us pictures and newspaper clippings of past cyclists she hosted, Bob suddenly said, "Hey! I almost forgot it's country western night." Before we knew it we we had all piled into their car and were on our way to the town community center, where every Friday night a group of elderly people gets together to play country music and dance two-step. 
 
 I felt like a lucky lady when several men there asked me to dance! Fortunately I at least knew the basic step, so I was able to follow along well enough. I thought was so neat that the town had created a space and a regular event for older people to socialize and exercise. In most places there is a lack of entertainment geared toward that age group, which I see as a failing of our communities and a sign of ageism in our society.
 
@@ -98,4 +98,4 @@ Ever since Tuan and I rode away from Berea, we have not had any more problems wi
 
 We even made some new friends. These cute little guys took a special liking to us and actually followed (not chased) our bikes for almost a mile! I was worried they wouldn't be able to find their way back home, but Tuan assured me that country dogs have a good sense of direction.
 
-![alt text](http://i.imgur.com/doCtoOil.jpg/)
+![alt text](http://i.imgur.com/doCtoOil.jpg/
