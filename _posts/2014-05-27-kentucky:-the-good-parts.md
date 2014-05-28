@@ -60,6 +60,8 @@ That night was surreal. From the porch of that little unassuming shop in the mid
 
 ![alt text](http://i.imgur.com/oP4cSanl.jpg)
 
+![alt text](http://i.imgur.com/GxpdnLgl.jpg)
+
 #### Utica, KY: Volunteer Fire Station
 
 The next day we pulled another long day to get to Utica, where we knew there was a fire station with camping for cyclists. What we didn't realize was that we'd have full access to the fire station. When we pulled into town someone came out of the station and waved us down. It was another cyclist, who was traveling west to east. He had been told that there was an open-door policy for cyclists - We could just walk right into the fire station and make ourselves at home! Several firefighters stopped by to say hello and chat with us, but fortunately there weren't any emergencies during the night, so we got a solid night's sleep on the couches there. The next morning we took advantage of having use of a kitchen to make a big breakfast of eggs, bacon, and toast. 
@@ -98,4 +100,4 @@ Ever since Tuan and I rode away from Berea, we have not had any more problems wi
 
 We even made some new friends. These cute little guys took a special liking to us and actually followed (not chased) our bikes for almost a mile! I was worried they wouldn't be able to find their way back home, but Tuan assured me that country dogs have a good sense of direction.
 
-![alt text](http://i.imgur.com/doCtoOil.jpg)
+![alt text](http://i.imgur.com/doCtoOil.jpg
