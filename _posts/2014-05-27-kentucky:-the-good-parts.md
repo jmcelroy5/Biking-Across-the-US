@@ -6,9 +6,6 @@ image-url: "http://i.imgur.com/RTLeIhDl.jpg"
 excerpt: "When I look back on biking through Kentucky, what I am more likely to remember than the dog attacks or the coal trucks will be the warm hospitality of my hosts at the various places I stayed. Southern hospitality is no myth, and it amazed and humbled me over and over again."
 tags:
 ---
-
-###Kentucky: The Good Parts
-
 When I look back on biking through Kentucky, what I am more likely to remember than the dog attacks or the coal trucks will be the warm hospitality of my hosts at the various places I stayed. Southern hospitality is no myth, and it amazed and humbled me over and over again.
 
 In Eastern Kentucky I got a lot of bad weather. At two different diners where I had stopped to wait out the storms, I was offered coffee on the house by the waitresses. At one diner, the lady handed me the remote to their TV and said I was welcome to stay as long as I wanted. 
@@ -21,7 +18,7 @@ On my first night I stayed at a Baptist Center, which was marked on the ACA map 
 	
 Within minutes of arriving, a local man stopped by and assured me that the family who runs the place had just gone out to run errands and would be back soon. That eased my mind and made the wait much more bearable. When Alice arrived and let me in she showed me around the facilities, which included a bathroom and a fully-stocked kitchen where I was left to use anything I wanted to cook dinner. A happy ending to a rough first day in Kentucky!
 
-###Hindman, KY: The Knott Historical Society 
+####Hindman, KY: The Knott Historical Society 
 
 The next night I stayed at the Knott County Historical Society, which was actually someone's home that had also become a hostel exclusively for cyclists. My host, Dave, greeted my arrival with an iced tea, offered to do my laundry, introduced me to his many cats, showed me where the shower was, and said dinner would be ready in an hour. I thought I was in heaven!
 
@@ -31,7 +28,7 @@ Dave was also fantastic company. As a native Kentuckian and a historical writer,
 
 ![alt text](http://i.imgur.com/4NgKckHl.jpg)
 
-### Booneville, KY: Booneville Presbyterian Church
+#### Booneville, KY: Booneville Presbyterian Church
 
 After a challenging 70 mile day, I ended up at the Presbyterian church in Booneville, which allows cyclists to camp behind it. I got there just before the sun went down, and there was no one else there, but this welcoming sign made me feel comfortable just waltzing in and pitching my tent:
 
@@ -41,7 +38,7 @@ After a challenging 70 mile day, I ended up at the Presbyterian church in Boonev
 
 They had a lovely area in the back with a well-tended lawn for camping, a shelter with picnic tables, a shower room, and a port-a-potty. There was a note to cyclists next to the shower room, which started by saying "This may not be the Ritz Carlton," but it may as well have been! It meant a lot that a small church would provide such facilities to long-distance cyclists. When you're on the road, it feels amazing to arrive anywhere that makes you feel at home for the night.
 
-### Berea, KY: Couchsurfing hosts
+#### Berea, KY: Couchsurfing hosts
 
 I had been looking forward to Berea, a cute college town that marked the end of the Appalachians and the promise of good coffeeshops. 
 
@@ -49,7 +46,7 @@ There was no camping marked there on the map, so I sent some last-minute Couchsu
 
 Tuan had arrived in Berea a few days ahead of me and decided to take a few rest days there. When I got into town he and I met for dinner at a Mexican restaurant and recounted our Eastern Kentucky experiences. When he had arrived in Berea he had no plans for where to stay, but then he had met a guy in a cafe who invited him to camp in his yard and to help him train his dog in search and rescue during the day.
 
-### Hudson, KY: The Double L Grocery Store 
+#### Hudson, KY: The Double L Grocery Store 
 
 Tuan and I rode on together from Berea. The first night we stayed at a campground, and then the second day we pulled an exceptionally long day (83 miles, including an accidental detour) in order to make it to an intriguing stopover on the TransAmerica map, a grocery store that allows cyclists to camp outside it.
 
