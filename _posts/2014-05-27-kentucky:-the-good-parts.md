@@ -98,4 +98,4 @@ Ever since Tuan and I rode away from Berea, we have not had any more problems wi
 
 We even made some new friends. These cute little guys took a special liking to us and actually followed (not chased) our bikes for almost a mile! I was worried they wouldn't be able to find their way back home, but Tuan assured me that country dogs have a good sense of direction.
 
-![alt text](http://i.imgur.com/doCtoOil.jpg/
+![alt text](http://i.imgur.com/doCtoOil.jpg)
