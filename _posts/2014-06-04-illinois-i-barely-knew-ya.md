@@ -33,7 +33,7 @@ From there we decided to push on another hour or so to Elizabethtown, a cute lit
 
 They were from the Pentecostal church, and they had gotten together for an annual event to "bless" their motorcycles for another year of riding. Before we left, the pastor in the group asked if they could pray over our bicycles. They gave us crosses to hang on our bikes then all gathered around to lay hands on them for a very heartfelt, spirited prayer. Thanks, motorcycle dudes!
 
-We had heard that a B&B in Elizabethtown allowed cyclists to camp outside and also use their bathroom and showers for $7. After our detour to get our bikes blessed, we were racing to get there before the sun went down. We made it just in time, and the B&B owner showed us to her lovely landscaped backyard where we could pitch our tent next to the swimming pool. Tuan somehow still had energy after all the events of the day, so he drank with the B&B guests on the front porch while I set up the tent and called it an early night.
+We had heard that a B&B in Elizabethtown allowed cyclists to camp outside and also use their bathroom and showers for $7. After our detour to get our bikes blessed, we were racing to get there before the sun went down. We made it just in time, and the B&B owner showed us where we could pitch our tent next to the swimming pool. Tuan somehow still had energy after all the events of the day, so he drank with the B&B guests on the front porch while I set up the tent and called it an early night.
 
 The next day we got a late start to enjoy being in the lovely landscaped backyard of the B&B. We took our time making oatmeal and coffee, and then i worked on my blog by the pool.
 
