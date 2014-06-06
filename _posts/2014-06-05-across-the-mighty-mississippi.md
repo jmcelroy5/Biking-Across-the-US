@@ -51,8 +51,6 @@ And a glorious ride it was! That day stands out as one of the best of the entire
 
 ![alt text](http://i.imgur.com/nXRP73Yl.jpg)
 
-![alt text](http://i.imgur.com/RDycfV5l.jpg)
-
 ![alt text](http://i.imgur.com/QD9Yjjul.jpg)
 
 Mike and Bill stopped at a state park, and Tuan and I went on another 30 miles to a small town called Ellington. We were excited to find a grocery store where we could get bread and fresh fruit to go with our dinner (non gas station / dollar store food is hard to come by these days).
@@ -100,5 +98,7 @@ Even though we were in the center of town, that night was much more peaceful tha
 The next day was a great ride along much easier terrain. Our destination that day was Hartville, a charming town where we could camp on the courthouse lawn. 
 
 I was in high spirits, still enjoying the stunning scenery. After the grey dullness of Southern Illinois, it seemed like someone had turned the color back on. I couldn't stop marveling at the bright blue sky, the soft-looking grass, and the lush greenness of the Ozarks. I never thought I'd say this, but Missouri is my favorite state so far! I had no idea how beautiful it would be.
+
+![alt text](http://i.imgur.com/RDycfV5l.jpg)
 
 Meanwhile, my parents were driving up from Houston to meet me on the trail for the weekend. My dad had just bought a new bike and wanted to ride with me for a few days. That night they stayed in a hotel in Marshfield, just 25 miles due west, and then drove to Hartville to meet us for breakfast in the morning.
