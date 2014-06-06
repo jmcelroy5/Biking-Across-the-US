@@ -21,7 +21,7 @@ When we finally extricated ourselves from social hour, the next thing to do was 
 
 Mike (on the recumbent) is doing the whole TransAmerica from east to west, and Bill is his pastor who had joined him for a week of riding. Mike had apparently been hearing about me since he started, because every so often a shopkeeper would tell him there was a girl a few days ahead of him. He said one lady at a store in Virginia seemed scandalized that I was traveling solo.
 
-Mike and Bill had gotten started at 5:30 that morning and had already ridden 50 miles. We felt like slackers - all we had done was cross a bridge! They had 20 miles to go, so we rode on with them until they got to their motel. Tuan and I continued on, despite a major road closure on the route. Bike privilege!
+Mike and Bill had gotten started at 5:30 that morning and had already ridden 50 miles. We felt like slackers - all we had done so far was cross a bridge! They had 20 miles to go, so we rode on with them until they got to their motel. Tuan and I continued on, despite a major road closure on the route. Bike privilege.
 
 We made it to Farmington, a cute and wonderfully bike-friendly town, where we were planning to stay at Al's Place Bike Hostel. Al's Place is in an old county jailhouse that was converted to a hostel specifically for TransAmerican cyclists. We had been hearing great things about it, and it lived up to the hype. 
 
@@ -41,7 +41,7 @@ I had an energy-packed breakfast of sausage, egg, and cheese on a bagel with a s
 
 Two other cyclists came in at the cafe, a daughter and dad team, who were doing a tour of 40 Missouri state parks. Mike had been following their blog, so he was excited to meet them in person. They are traveling with a stuffed rooster that they named "You," because so many of their friends said they wished they could join them on the trip. Now "You" are going on the trip, and I wish "You" would pedal! They are blogging [here](http://www.crazyguyonabike.com/doc/40stateparks).
 
-![alt text](http://i.imgur.com/lfasF6bl.jpg)
+![alt text](http://i.imgur.com/vJcqVkXl.jpg/)
 
 The daugher, Rachel, said after the trip she's going back to school for a masters in transportation policy and hopes to work for the Missouri DOT. She's excited about the new direction of transportation planning and the recent surge in bike enthusiasm in the state. Missouri had recently put up the Route 76 bicycle signs at all the turns on the TransAmerica route, and we'd thoroughly been enjoying the break from navigation. Virginia and Missouri are the only states with the signs so far, but hopefully one day cyclists will be able to follow the signs all the way across the country.
 
