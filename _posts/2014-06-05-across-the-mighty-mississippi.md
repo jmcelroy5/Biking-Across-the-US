@@ -19,7 +19,7 @@ When we finally extricated ourselves from social hour, the next thing to do was 
 
 ![alt text "Mike and Bill"](http://i.imgur.com/LOsdrwOl.jpg)
 
-Mike (on the recumbent) is doing the whole TransAmerica from east to west, and Bill is his pastor who had joined him for a week of riding. Mike had apparently been hearing about me since he started! Every few days a shopkeeper would tell him there was a girl a few days ahead of him. He said one lady at a store in Virginia seemed scandalized that I was traveling solo.
+Mike (on the recumbent) is doing the whole TransAmerica from east to west, and Bill is his pastor who had joined him for a week of riding. Mike had apparently been hearing about me since he started! Every so often a shopkeeper would tell him there was a girl a few days ahead of him. He said one lady at a store in Virginia seemed scandalized that I was traveling solo.
 
 Mike and Bill had gotten started at 5:30 that morning and had already ridden 50 miles, and all we had done was cross a bridge! They had 20 miles to go, so we rode on with them until they got to their motel. Tuan and I continued on, despite a major road closure on the route. Bike privilege!
 
