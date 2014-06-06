@@ -21,7 +21,7 @@ When we finally extricated ourselves from social hour, the next thing to do was 
 
 Mike (on the recumbent) is doing the whole TransAmerica from east to west, and Bill is his pastor who had joined him for a week of riding. Mike had apparently been hearing about me since he started, because every so often a shopkeeper would tell him there was a girl a few days ahead of him. He said one lady at a store in Virginia seemed scandalized that I was traveling solo.
 
-Mike and Bill had gotten started at 5:30 that morning and had already ridden 50 miles. We felt like slackers - all we had done so far was cross a bridge! They had 20 miles to go, so we rode on with them until they got to their motel. Tuan and I continued on, despite a major road closure on the route. Bike privilege.
+Mike and Bill had gotten started at 5:30 that morning and had already ridden 50 miles. We felt like slackers - all we had done so far was cross a bridge! They had 20 miles to go, so we rode on with them until they got to their motel. Tuan and I continued on, despite a major road closure on the route. We claimed our bike privilege again.
 
 We made it to Farmington, a cute and wonderfully bike-friendly town, where we were planning to stay at Al's Place Bike Hostel. Al's Place is in an old county jailhouse that was converted to a hostel specifically for TransAmerican cyclists. We had been hearing great things about it, and it lived up to the hype. 
 
