@@ -41,7 +41,7 @@ Around mile 60 our energy was flagging. Gatorade, Snickers, and a rest at a gas 
 A bit later we had a run-in with a pack of mean dogs. My dad got off to walk his bike, and the alpha dog, some kind of pit bull mix, tried to get around it and at his legs. When he came to bark at me I was ready with the pepper spray. I got him in the nose, and though I missed my target, it was enough to get him to back off until we got away. I was amazed that the first time I actually had to use the pepper spray wasn't in Eastern Kentucky but in Missouri where we had relatively few dog encounters.
 
 ![alt text](http://i.imgur.com/ubK7hUJl.jpg)
-During the final push of the day I I was getting weary and distracted, because I didn't notice when Tuan and my dad suddenly slowed down in front of me. I ran into my dad's back wheel and crashed, hitting my head (in the helmet, fortunately) on the ground and scraping up my elbow. 
+During the final push of the day I I was getting weary and distracted, because I didn't notice when Tuan and my dad suddenly slowed down in front of me. I ran into my dad's back wheel and crashed, hitting my head (well, fortunately it was my the helmet) on the ground and scraping up my elbow. 
  
 We finally got to Everton and had to ride a mile and a half down a gravel road. When we got to the lodge we were completely spent, but we couldn't have ended at a better place. There were comfy couches, real beds, hot showers, and beer in the fridge. And best of all, my mom had a dinner and lasagna, salad, and garlic bread waiting for us! 
 
@@ -89,4 +89,4 @@ Once the guy at the bike shop had finished with my bike (and burned a hole in my
 
 Resting in Pittsburg was a fortuitous decision, because a bunch of Westbound cyclists caught up with us. Our friend, Mike, who had taken a detour to meet his wife in Wichita, met us there, and then we also ran into a pair of men from Oregon (Jerry and Jonathan) and a pair of Brits (Paul and Terry). 
 
-Mike, Paul, Terry, Tuan, and I all camped at the city park. We had a great time drinking summer shandy and shooting the breeze until well after dark.
+Mike, Paul, Terry, Tuan, and I all camped at the city park. We had a great time drinking summer shandy and shooting the breeze until well after dark
