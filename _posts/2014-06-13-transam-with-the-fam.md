@@ -3,7 +3,7 @@ layout: post
 title: "TransAm with the Fam"
 date: 2014-06-12
 image-url: "http://i.imgur.com/SssP0wKl.jpg"
-excerpt: "http://i.imgur.com/SssP0wKl.jpg"
+excerpt: "My wonderful parents drove 11 hours from Houston to meet me in the middle of nowhere, Missouri to join me on the trail for a few days. They met me and Tuan early in the morning in Hartville where we were camping on the courthouse lawn. "
 tags:
 ---
 ####Hartville, MO to Everton, MO (85 mi)
