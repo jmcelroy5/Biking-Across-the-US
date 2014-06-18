@@ -3,14 +3,14 @@ layout: post
 title: "TransAm with the Fam"
 date: 2014-06-12
 image-url: "http://i.imgur.com/SssP0wKl.jpg"
-excerpt: "My wonderful parents drove 11 hours from Houston to meet me in the middle of nowhere, Missouri to join me on the trail for a few days. They met me and Tuan early in the morning in Hartville where we were camping on the courthouse lawn. "
+excerpt: "My wonderful parents drove 11 hours from Houston to meet me in the middle of nowhere, Missouri to join me on the trail for a few days. They found me and Tuan early in the morning in Hartville where we were camping on the courthouse lawn. "
 tags:
 ---
 ####Hartville, MO to Everton, MO (85 mi)
 
-My wonderful parents drove 11 hours from Houston to meet me in the middle of nowhere, Missouri to join me on the trail for a few days. They met me and Tuan early in the morning in Hartville where we were camping on the courthouse lawn. 
+My wonderful parents drove 11 hours from Houston to meet me in the middle of nowhere, Missouri to join me on the trail for a few days. They found me and Tuan early in the morning in Hartville where we were camping on the courthouse lawn. 
 
-We went to the local diner, where we got hearty breakfasts for $5, and my parents were quickly immersed in the culture of small town USA. The weather-worn local men had all gathered there for their social hour, and waitress flirted as she refilled their bottomless coffee. When I saw my mom's nose wrinkle I remembered that smoking in restaurants is still allowed in these parts. 
+We went to the local diner, where we got hearty breakfasts for $5, and my parents were quickly immersed in the culture of small town USA. The weather-worn local men had all gathered there for their social hour, and the waitress flirted as she refilled their bottomless coffee. When I saw my mom's nose wrinkle I remembered that smoking in restaurants is still allowed in these parts. 
 
 We had a particularly long ride planned for that day, because there were no towns with non-camping accommodations for the next 80 miles. We were aiming for Everton, MO, where the four of us could stay at Running Spring Farm, a hunting lodge that serves as cyclist lodging during the summer months. 
 
@@ -38,20 +38,23 @@ Around mile 60 our energy was flagging. Gatorade, Snickers, and a rest at a gas 
 
 ![alt text](http://i.imgur.com/leHp4Oxl.jpg)
 
-A bit later we had a run-in with a pack of mean dogs. My dad got off to walk his bike, and the alpha dog, some kind of pit bull mix, tried to get around it and at his legs. When he came to bark at me I was ready with the pepper spray. I got him in the nose, and though I missed my target, it was enough to get him to back off until we got away. I was amazed that the first time I actually had to use the pepper spray wasn't in Eastern Kentucky but in Missouri where we had relatively few dog encounters.
+A bit later we had a run-in with a pack of mean dogs. My dad got off to walk his bike, and the alpha dog, some kind of pit bull mix, tried to get around and at his legs. When he came to bark at me I was ready with the pepper spray. I got him in the nose, and though I missed my target, it was enough to get him to back off until we got away. I was amazed that the first time I actually had to use the pepper spray wasn't in Eastern Kentucky but in Missouri where we had relatively few dog encounters.
 
 ![alt text](http://i.imgur.com/ubK7hUJl.jpg)
-During the final push of the day I I was getting weary and distracted, because I didn't notice when Tuan and my dad suddenly slowed down in front of me. I ran into my dad's back wheel and crashed, hitting my head (well, fortunately it was my the helmet) on the ground and scraping up my elbow. 
+
+Later I must have been getting weary and distracted, because I didn't notice when Tuan and my dad suddenly slowed down in front of me. I ran into my dad's back wheel and crashed, hitting my head (well, fortunately my helmet) on the ground and scraping up my elbow. 
  
 We finally got to Everton and had to ride a mile and a half down a gravel road. When we got to the lodge we were completely spent, but we couldn't have ended at a better place. There were comfy couches, real beds, hot showers, and beer in the fridge. And best of all, my mom had a dinner and lasagna, salad, and garlic bread waiting for us! 
 
-Two Eastbound cyclists, photographers from San Diego, were staying there also. Their names were Vic and Tor. We exchanged tons of information about lodging. We warned them about the rabid dogs in Eastern Kentucky, and they told us about the curious cows in Kansas that crowd up against the fence to stare at you.
+Two Eastbound cyclists, photographers from San Diego, were staying there also. Their names were Vic and Tor (seriously). We exchanged tons of information about lodging. We warned them about the rabid dogs in Eastern Kentucky, and they told us about the curious cows in Kansas.
 
 ![alt text](http://i.imgur.com/dXqxUrVl.jpg)
 
 My dad was the one who taught me to ride a bike and taught me to love riding as I grew up. Throughout my childhood we'd go on long rides along the bayou trails in Houston, and sometimes we'd bike all the way to my grandmother's house. 
 
-When I was about 10 he took me on a 50 mile group ride in Louisiana. I don't think I had ever ridden more than 20 miles at a time before that, so the ride was a struggle for me. I distinctly remember going into a strong headwind for the entire second half of the ride and swearing I would never ever bike again once it was over! I told this story over dinner at the lodge, and my dad was surprised to learn that he had almost ruined cycling for me on that one occasion. But clearly I must've gotten over it. :)
+When I was about 10 he took me on a 50 mile group ride in Louisiana. I don't think I had ever ridden more than 20 miles at a time before that, so the ride was a struggle for me. 
+
+I distinctly remember going into a strong headwind for the entire second half of the ride and swearing I would never ever bike again once it was over! I told this story over dinner at the lodge, and my dad was surprised to learn that he had almost ruined cycling for me on that one occasion. But clearly I must've gotten over it. :)
 
 ####Everton, MO to Pittsburg, KS (60 miles)
 
