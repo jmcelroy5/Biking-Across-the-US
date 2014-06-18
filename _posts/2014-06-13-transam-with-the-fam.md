@@ -70,11 +70,13 @@ We made it just in time and had the most decadent meal of my entire trip: fried 
 
 ![alt text](http://i.imgur.com/AGNVMyFl.jpg)
 
-The restaurant is such a regular stop for TransAm cyclists that they even had a guestbook, which I would venture to guess might be one of the most comprehensive! No hungry cyclist can pass up homemade pie. We saw names we recognized of cyclists we had been trailing for a while and a few Eastbounders we had come across in the past several days.
+The restaurant is such a regular stop for TransAm cyclists that they even had a guestbook, which I would venture to guess might be one of the most comprehensive ones out there! No hungry cyclist can pass up homemade pie. We saw names we recognized of cyclists we had been trailing for a while and a few Eastbounders we had come across in the past several days.
 
 The second half of the ride was much more relaxed, which was good, because I was so achingly stuffed from lunch I could only pedal in slow motion anyway. 
 
-Western Missouri gave us a taste of what Kansas would be like. The rolling hills flattened out, trees became sparse, and the fields went out as far as the eye could see. We could see towns coming from as far as 8 miles away when their water towers came into view on the horizon. A lot of cyclists look forward to the flat riding in Kansas, but I found myself dreading the featureless scenery and the long uninhabited stretches. But it was a mental battle I had been anticipating ever since I decided to do this trip.
+Western Missouri gave us a taste of what Kansas would be like. The rolling hills flattened out, trees became sparse, and the fields went out as far as the eye could see. We could see towns coming from as far as 8 miles away when their water towers came into view on the horizon. 
+
+A lot of cyclists look forward to the flat riding in Kansas, but I found myself dreading the featureless scenery and the long uninhabited stretches. But it was a mental battle I had been anticipating ever since I decided to do this trip.
 
 ![alt text](http://i.imgur.com/kuYX1vUl.jpg)
 
@@ -84,12 +86,12 @@ i feel really lucky that my parents have been supportive of this bike trip from 
 
 ####Pittsburg, KS (0 miles)
 
-Tuan and I decided to take a rest day in Kansas. We made a trip to the post office, shopped for some new biking shirts, and then spent all afternoon at the local bikeshop, Tailwind Cyclery, getting my bike worked on. 
+Tuan and I decided to take a rest day in Kansas. We made a trip to the post office, shopped for some new biking shirts, and then spent all afternoon at the local bike shop.
 
-I had just taken my bike in to make sure that the way we had fixed the bent derailleur was going to be ok, but it turned out there were many more serious things wrong with it. The derailleur was installed improperly, the stem was loose, the gearing needed major adjustment, and the wheels were out of true. Yikes. 
+I just took my bike in to make sure that the way we had fixed the bent derailleur was going to be ok, but it turned out there were many more serious things wrong with it. The derailleur was installed improperly, the stem was loose, the gearing needed major adjustment, and the wheels were out of true. Yikes. 
 
-Once the guy at the bike shop had finished with my bike (and burned a hole in my pocket) my bike rode like a dream machine! I didn't even realize there was anything wrong with it before, but it runs noticeably more smoothly and quietly now.
+Once the guy at the bike shop had finished with my bike (and burned a hole in my pocket) it rode like a dream machine! I didn't even realize there was anything wrong with it before, but it runs noticeably more smoothly and quietly now.
 
-Resting in Pittsburg was a fortuitous decision, because a bunch of Westbound cyclists caught up with us. Our friend, Mike, who had taken a detour to meet his wife in Wichita, met us there, and then we also ran into a pair of men from Oregon (Jerry and Jonathan) and a pair of Brits (Paul and Terry). 
+Resting in Pittsburg was a fortuitous decision, as it gave a bunch of Westbound cyclists a chance to catch up with us. Our friend, Mike met us there, and then we also ran into a pair of men from Oregon (Jerry and Jonathan) and a pair of Brits (Paul and Terry). 
 
-Mike, Paul, Terry, Tuan, and I all camped at the city park. We had a great time drinking summer shandy and shooting the breeze until well after dark
+Mike, Paul, Terry, Tuan, and I all camped at the city park. We had a great time drinking summer shandy and shooting the breeze until well after dark.
