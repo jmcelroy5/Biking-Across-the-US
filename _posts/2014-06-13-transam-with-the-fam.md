@@ -62,7 +62,7 @@ The next day's ride was much less daunting. Only the first fifteen miles were hi
 
 ![alt text](http://i.imgur.com/uhrY3swl.jpg)
 
-Also, there was a famous diner called Cooky's Cafe after 30 miles, reputedly one of the best on the TransAmerican Trail. I rushed us through the first part of the ride, anxious to get there before they closed at 1:00. But of course, there's always time for a turtle rescue, even when pie is on the line. These fellas are suicidal! We've probably rescued dozens of them, though sadly we see more squished turtles than live ones.
+There was a famous diner called Cooky's Cafe after 30 miles, reputedly one of the best on the TransAmerican Trail. I rushed us through the first part of the ride, anxious to get there before they closed at 1:00. But of course, there's always time for a turtle rescue, even when pie is on the line. These fellas are suicidal! We've probably rescued dozens of them, though sadly we see more squished turtles than live ones.
 
 ![alt text](http://i.imgur.com/rDShnh6l.jpg)
 
