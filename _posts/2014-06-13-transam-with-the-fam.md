@@ -44,7 +44,7 @@ A bit later we had a run-in with a pack of mean dogs. My dad got off to walk his
 
 Later I must have been getting weary and distracted, because I didn't notice when Tuan and my dad suddenly slowed down in front of me. I ran into my dad's back wheel and crashed, hitting my head (well, fortunately my helmet) on the ground and scraping up my elbow. 
  
-We finally got to Everton and had to ride a mile and a half down a gravel road. When we got to the lodge we were completely spent, but we couldn't have ended at a better place. There were comfy couches, real beds, hot showers, and beer in the fridge. And best of all, my mom had a dinner and lasagna, salad, and garlic bread waiting for us! 
+We finally got to Everton and had to ride a mile and a half down a gravel road. When we got to the lodge we were completely spent, but we couldn't have ended at a better place. There were comfy couches, real beds, hot showers, and beer in the fridge. And best of all, my mom had a dinner of lasagna, salad, and garlic bread waiting for us! 
 
 Two Eastbound cyclists, photographers from San Diego, were staying there also. Their names were Vic and Tor (seriously). We exchanged tons of information about lodging. We warned them about the rabid dogs in Eastern Kentucky, and they told us about the curious cows in Kansas.
 
