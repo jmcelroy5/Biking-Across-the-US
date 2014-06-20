@@ -81,4 +81,4 @@ After getting settled at the bike shop, Tuan and I went over to the fire station
 
 Next door there was a cozy cafe with live music, and on a Friday night it was a pretty happenin' place. Tuan and I went over and listened to a band called Commonfolk. They were so awesome we stayed until the very last song, even though I was struggling to keep my eyes open at 10:00. The rockstar life of bike tourers. 
 
-![alt text](http://i.imgur.com/WZaWLFIl.jpg "Commonfolk"
+![alt text](http://i.imgur.com/WZaWLFIl.jpg "Commonfolk")
