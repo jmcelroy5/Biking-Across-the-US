@@ -21,7 +21,7 @@ At one point I inhaled a big bug and had to stop riding to choke dramatically an
 
 We stopped for a quick bite to eat at a gas station, where we were introduced to the magic that is the Pork and Bull. Two hamburger patties with ham in between. It was a protein explosion.
 
-![alt text]http://i.imgur.com/sjziuxyl.jpg "Pork and bull: the best touring fuel")
+![alt text](http://i.imgur.com/sjziuxyl.jpg "Pork and bull: the best touring fuel")
 
 But no time to dilly dally! We had to beat the storm, so we plugged onward into the wind. Eastern Kansas is humid, and as the day went on it became hot as Hades. We guzzled through our water and sweat it right back out.
 
@@ -81,4 +81,4 @@ After getting settled at the bike shop, Tuan and I went over to the fire station
 
 Next door there was a cozy cafe with live music, and on a Friday night it was a pretty happenin' place. Tuan and I went over and listened to a band called Commonfolk. They were so awesome we stayed until the very last song, even though I was struggling to keep my eyes open at 10:00. The rockstar life of bike tourers. 
 
-![alt text](http://i.imgur.com/WZaWLFIl.jpg "Commonfolk")
+![alt text](http://i.imgur.com/WZaWLFIl.jpg "Commonfolk"
