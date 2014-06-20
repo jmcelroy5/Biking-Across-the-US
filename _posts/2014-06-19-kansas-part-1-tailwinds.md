@@ -7,7 +7,7 @@ excerpt: "In the morning I woke up to the sound of rain on my tent. If it weren'
 tags:
 ---
 
-You may have noticed that I'm actually in Colorado right now, but my blog is only halfway through Kansas! I'm hoping and planning to take some time out to catch up on blogging. So much has been happening, and I want to take the time to write and reflect on it all. Look out for Kansas part 2, coming soon.
+You may have noticed that I'm actually in Colorado right now, but my blog is only halfway through Kansas! I'm hoping and planning to catch up on blogging. So much has been happening, and I want to take the time to write and reflect on it all. Look out for Kansas part 2, coming soon.
 
 ####Pittsburg to Chanute (60 miles)
 
