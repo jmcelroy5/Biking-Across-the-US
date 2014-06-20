@@ -69,7 +69,7 @@ We stopped at a country store in Cassoday where they had an all-you-can-eat buff
 
 After demolishing two big plates each, Tuan took a nap on the table and I cuddled the store's cat. It was so cute, but it had a drooling problem. I normally wouldn't mind a little cat drool on my leg, except that we had just seen the same cat on the porch not an hour before with a mouse tail wriggling from his mouth.
  
-That night we stayed at the Newton Bike Shop, which nearly every Eastbound cyclist had raved to us about. The owners, James and Heather, are really passionate about hosting and helping TransAmerican cyclists. They had a nice hostel-like room for touring cyclists to stay for free and made us feel welcome to use the bathrooms and kitchen. I didn't use it, but they also have a "bike wash room" for giving your bike a bath.
+That night we stayed at the Newton Bike Shop, which nearly every Eastbound cyclist had raved to us about. The owners, James and Heather, are really passionate about hosting and helping TransAmerican cyclists. They had a nice hostel-like room for touring cyclists to stay for free and made us feel welcome to use the bathrooms and kitchen. They also have a "bike wash room" where you can hang your bike above a tub and give it a bath.
 
 In his pre-bike-shop life James was a music video producer and photographer who worked with a lot of big name musicians. Heather is an accountant with her own business. In addition to running a bike shop and cyclist hostel they have five kids. I don't know how they do it all and do it all so well! 
 
