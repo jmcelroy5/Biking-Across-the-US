@@ -41,7 +41,7 @@ We finally made it to Ness City and had no qualms about checking into a motel fo
 
 There was a hamburger shack next door, and we were ravenous. We took our loot of double cheeseburgers, fries, ice cream, and beer back to the hotel, where we luxuriated in eating our dinner in front of the tv and then soaking our weary muscles in the hot tub.
 
-To our pleasant surprise, all of our friends we had met back in Pittsburg - Mike, Terry, Paul, John, and Jonathan - were staying at the hotel, too. Commiseration and camaraderie was the best way to end the day.
+To our pleasant surprise, all of our friends we had met back in Pittsburg - Mike, Terry, Paul, Jerry, and Jonathan - were staying at the hotel, too. Commiseration and camaraderie was the best way to end the day.
 
 ####Ness City to Leoti (80 miles)
 
