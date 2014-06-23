@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Kansas, Part 2: Sticks and Stones"
+image-url: "http://i.imgur.com/m0rjD2fl.jpg"
 date: 2014-06-23
 excerpt: "We spent all morning talking to James at the Newton Bike Shop, enthralled by his stories. He told us about his plans to expand into a full-blown cyclists' hostel with a restaurant and bar. Despite their bike shop's success and popularity in the community, they have met with an incredible amount of resistance from the town of Newton. "
 tags:
