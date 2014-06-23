@@ -65,4 +65,4 @@ They call Scotland home, but they have been biking around the word for the past 
 
 Except for one man who had snuck off to the park to have a late-night phone conversation with his (secret?) lover, our rest was blissfully undisturbed that night. 
 
-![alt text](http://i.imgur.com/Cb0ooZDl.jpg "Leoti water tower"
+![alt text](http://i.imgur.com/Cb0ooZDl.jpg "Leoti water tower")
