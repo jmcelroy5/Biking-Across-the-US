@@ -47,7 +47,9 @@ The next day was a million times better. The storm had passed over us and given 
 
 ![alt text](http://i.imgur.com/bZR3viYl.jpg)
 
-The day passed by serenely. Without a headwind, covering eighty miles took less time and felt far easier than the sixty miles we rode the day before. I listened to an energetic punk rock playlist and put more energy into my shoulder dancing and head bopping than pedaling. At one point we came across a graveyard of farm machinery, some really sad-looking cows in a feed yard, and the first windmills we had seen on the whole trip. I don't know why Kansas isn't covered in windmills instead of all the little oil rigs we saw. Harnessing all the wind in Kansas could probably power the whole country!
+The day passed by serenely. Without a headwind, covering eighty miles took less time and felt far easier than the sixty miles we rode the day before. I listened to an energetic punk rock playlist and put more energy into my shoulder dancing and head bopping than pedaling. 
+
+At one point we came across a graveyard of farm machinery, some really sad-looking cows in a feed yard, and the first windmills we had seen on the whole trip. I don't know why Kansas isn't covered in windmills instead of all the little oil rigs we saw. Harnessing all the wind in Kansas could probably power the whole country!
 
 ![alt text](http://i.imgur.com/ut6VIA7l.jpg "Combine graveyard")
 
