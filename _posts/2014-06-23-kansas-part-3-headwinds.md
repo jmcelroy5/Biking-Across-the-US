@@ -35,7 +35,7 @@ We came upon a rest area, where we met two Austrian bike tourers who were also s
 
 Strangely, even as the weather worsened, I had a breakthrough in my mood. To get my mind off the roar of the wind and our slow progress I started focusing on the little details in the scenery - the play of light, the grass whipping around, the clouds moving quickly across the sky, the interactions between cows. I tried to stop fighting the wind and just accept it as a constant. 
 
-We finally made it to Ness City and had no qualms about checking into a motel for the night. The Derrick Inn turned out to be the *real* bicycle oasis. There was a hamburger shack next door, so we got double cheeseburgers, fries, ice cream, and beer. We luxuriated in eating our dinner in front of the tv and then soaking our weary muscles in the hotel's hot tub.
+We finally made it to Ness City and had no qualms about checking into a motel for the night. The Derrick Inn turned out to be the *real* bicycle oasis. There was a hamburger shack next door, and we were ravenous. We took our loot of double cheeseburgers, fries, ice cream, and beer back to the hotel, where we luxuriated in eating our dinner in front of the tv and then soaking our weary muscles in the hot tub.
 
 ![alt text](http://i.imgur.com/77BOzVDl.jpg "The Derrick Inn") 
 
@@ -65,4 +65,4 @@ They call Scotland home, but they have been biking around the word for the past 
 
 Except for one man who had snuck off to the park to have a late-night phone conversation with his (secret?) lover, our rest was blissfully undisturbed that night. 
 
-![alt text](http://i.imgur.com/Cb0ooZDl.jpg "Leoti water tower")
+![alt text](http://i.imgur.com/Cb0ooZDl.jpg "Leoti water tower"
