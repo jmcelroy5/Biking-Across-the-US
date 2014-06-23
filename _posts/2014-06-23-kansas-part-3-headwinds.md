@@ -2,7 +2,7 @@
 layout: post
 title: "Kansas, Part 3: Headwinds"
 date: 2014-06-23
-image-url: "http://i.imgur.com/LlAZmjAl.jpg"
+image-url: "http://i.imgur.com/uN3ErRDl.jpg"
 excerpt: "This was the most difficult day of the entire trip. It was cold and rainy when we woke up, and it was forecasted to continue all day, I still felt unrested after a rocky night (heh, rocky) but staying in that smelly town any longer wasn't an option. I packed up my soaking wet tent, heated up some oatmeal, and very lethargically went about preparing for the day." 
 tags:
 ---
@@ -12,6 +12,8 @@ tags:
 This was the most difficult day of the entire trip. It was cold and rainy when we woke up, and it was forecasted to continue all day, I still felt unrested after a rocky night (heh, rocky) but staying in that smelly town any longer wasn't an option. I packed up my soaking wet tent, heated up some oatmeal, and very lethargically went about preparing for the day. 
 
 There were actually a few pleasant surprises that brightened up the morning. When we rolled out of the park we saw that the town was filled with bicycles. We went into a coffee shop where many of them were stopping to find out what was going on. It turned out to be a supported ride across Kansas with over 900 cyclists. Pretending to be part of the group, we got someone to take a picture in our matching rain gear.
+
+![alt text](http://i.imgur.com/LlAZmjAl.jpg)
 
 On the way out of town we passed Fort Larned, a historic military outpost that was built to protect mail wagons on the Santa Fe trail from Native Americans. It was really neat to see how they had restored the rooms to their original appearance.
 
