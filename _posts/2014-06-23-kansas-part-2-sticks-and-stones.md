@@ -25,7 +25,7 @@ Tuan and I debated this for a while. It threw us for a loop, since we had never 
 
 Our conclusion was that it was nice to have the wide shoulder, but it was also a minefield of road debris and a flat tire waiting to happen. Also, the highway traffic was noisy and we found ourselves missing the peaceful backroads. 
 
-What did it for us, though, was deciding we wanted to stick to the classical route 76. Even if it's less inhabited we wanted the full experience, and we wanted to run into other TransAmerican cyclists, too. 
+What did it for us, though, was deciding we wanted to stick to the classic route 76. Even if it's less inhabited we wanted the full experience, and we wanted to run into other TransAmerican cyclists, too. 
 
 Our off-route jaunt on US50 took us through a town called Hutchinson, where we saw a scary-looking maximum security prison and found another all-you-can-eat buffet. All very American. For $8.50 we stuffed ourselves beyond belief and had to take a siesta before continuing our ride. 
 
