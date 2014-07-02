@@ -3,7 +3,7 @@ layout: post
 title: "Rocky Mountain High"
 date: 2014-06-28
 image-url: "http://i.imgur.com/6Ky3CY8l.jpg"
-excerpt: "I was so nervous about this ride, my first day in the Rockies. The elevation profile showed several thousand feet of elevation gain over 30-40 miles. Texting with my friend, Jeremy, who had his own figurative mountains to climb back at home, we talked about the concept of impostor syndrome and "legitness". The rest of the day the song, "Too legit, too legit to quit" would be my anthem as I pedaled forever upward."
+excerpt: "I was so nervous about this ride, my first day in the Rockies. The elevation profile showed several thousand feet of elevation gain over 30-40 miles. Texting with my friend, Jeremy, who had his own figurative mountains to climb back at home, we talked about the concept of impostor syndrome and legitness. The rest of the day the song, 'Too legit, too legit to quit' would be my anthem as I pedaled forever upward."
 tags:
 ---
 
