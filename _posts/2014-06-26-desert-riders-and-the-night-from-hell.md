@@ -2,8 +2,8 @@
 layout: post
 title: "Desert Riders and the Night from Hell"
 date: 2014-06-26
-image-url:"http://i.imgur.com/yIwlf08l.jpg"
-excerpt: "The next morning we got a leisurely start, drinking coffee and chatting in the church kitchen. Tuan and I were last to leave, as always, and after about 15 miles he broke off to see a Native American massacre memorial site 8 miles off route. I caught up with the whole crew at a diner in the next town. They were just finishing brunch, so I got a quick bite to eat from the gas station so I could ride on with them. This may be the only time in my life when I can eat hot dogs and donuts for lunch with impunity, so I'm taking advantage of it. "
+image-url: "http://i.imgur.com/yIwlf08l.jpg"
+excerpt: "The next morning we got a leisurely start, drinking coffee and chatting in the church kitchen. Tuan and I were last to leave, as always, and after about 15 miles he broke off to see a Native American massacre memorial site 8 miles off route. I caught up with the whole crew at a diner in the next town. They were just finishing brunch, so I got a quick bite to eat from the gas station so I could ride on with them. This may be the only time in my life when I can eat hot dogs and donuts for lunch with impunity, so I'm taking advantage of it."
 tags:
 ---
 ####Sheridan Lake to Ordway (88 miles)
