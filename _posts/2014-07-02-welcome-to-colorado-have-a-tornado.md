@@ -1,7 +1,7 @@
 ---
 layout: post
 image-url: "http://i.imgur.com/KW5MfgWl.jpg"
-date: 2014-07-02
+date: 2014-06-25
 title: "Welcome to Colorado, Have a Tornado"
 excerpt: "On our last day in Kansas, Tuan and I stopped in a small town and saw saw five bikes we recognized outside of a gas station. We met up with our friends, and then we all headed to over a gastropub across the street for lunch. Wait, what? A gastropub in Kansas? That's when we knew we had reached the transition zone into Colorado."
 tags:
