@@ -2,7 +2,7 @@
 layout: post
 title: "Rockies in the Distance"
 date: 2014-06-27
-image-url: "http://i.imgur.com/YgAwHL5l.jpg"
+image-url: "http://i.imgur.com/q3m7e5ol.jpg"
 excerpt: "The next morning, determined to salvage something of our dignity, Mike and I snuck into our friends' hotel to use the showers. Then we all went over to a diner next door for breakfast and many cups of coffee. Things were beginning to look brighter already. Speaking of things looking brighter, over breakfast Paul and Terry (the British guys) made the interesting cultural observation that they find Americans to be an optimistic people."
 tags:
 ---
