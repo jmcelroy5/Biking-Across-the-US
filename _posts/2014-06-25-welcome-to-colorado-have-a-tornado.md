@@ -25,7 +25,7 @@ After a decadent meal and two beers each, a nap sounded much better than getting
 
 ![alt text](http://i.imgur.com/DNhBAqjl.jpg "Colorful Colorado")
 
-From there it was a short jaunt down a beautifully paved road to Sheridan Lake, where we were going to stay at a church with all the other cyclists. When we were just a few miles away, we noticed that the sky up ahead looked very dark and threatening. Luckily we got into town just before the storm broke loose. 
+From there it was a short jaunt down a beautifully paved road to Sheridan Lake, where we were going to stay at a church. When we were just a few miles away, we noticed that the sky up ahead looked very dark and threatening. Luckily we got into town before the storm broke loose. 
 
 We stopped briefly to talk to Paul outside the Sheridan Lake gas station and saw his riding partner, Terry, perched on a post at the far side of the gas station staring out into the distance. There was a tornado warning in the area, and he wanted to see it.
 
