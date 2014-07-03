@@ -37,7 +37,7 @@ The next day Mary Ellen and I went back to the diner to have breakfast together.
 
 ![alt text](http://i.imgur.com/7cVA5gbl.jpg "Mary Ellen")
 
-My ride that day would went over Hoosier Pass at 11,600 feet. The climb was not only a grind but also a harrowing experience. The mountain road had no shoulder, and it was lined with gravel and sand in places. The traffic mostly consisted of semi trucks and RV campers, and since there was a steady stream going both ways, they barely budged to give me space. One truck that barreled seemingly just inches away sent me into hyperventilation mode, a real complication at that elevation. 
+My ride that day went over Hoosier Pass at 11,600 feet. The climb was not only a grind but also a harrowing experience. The mountain road had no shoulder, and it was lined with gravel and sand in places. The traffic mostly consisted of semi trucks and RV campers, and since there was a steady stream going both ways, they barely budged to give me space. One truck that barreled past seemingly just inches away sent me into hyperventilation mode, a real complication at that elevation. 
 
 I finally made it up there in one piece. I had crossed the Continental Divide for the first time and conquered the highest summit on the TransAmerican Trail!
 
@@ -51,15 +51,17 @@ I got off my bike to walk, and less than 5 minutes later a lady stopped to ask m
 
 The lady, Lisa, is a remarkable person. Intense, energetic, and authentic, she leads an interesting and full life. She had worked for many years and in many countries as a tour organizer and guide for Frommer's travel company. She met her husband, a British man, on one of her tours and they had adopted two beautiful daughters who are now in their twenties. They were all out of town, so unfortunately I didn't get to meet them. She now works as an elementary school teacher, and her genuine care for her students was so apparent. 
 
-Her home was beautiful, and I fell in love with her stunning Rhodesian Ridgeback puppy, Zola, who had the most expressive face I've ever seen on a dog. Lisa cooked a dinner of chicken over quinoa with asparagus before leaving for her event. I was in heaven for the rest of the evening reading on a comfy leather couch with the dog's head cradled in my lap.
+Her home was beautiful, and I fell in love with her Rhodesian Ridgeback puppy, Zola, who had the most expressive face I've ever seen on a dog. Lisa cooked a dinner of chicken over quinoa with asparagus before leaving for her event. I was in heaven for the rest of the evening reading on a comfy leather couch with the dog's head cradled in my lap.
 
 ![alt text](http://i.imgur.com/9PFwj7Bl.jpg "Zola")
 
 #### Breckenridge (0 miles)
 
-The next day Lisa invited me to spend the day at a horse refuge ranch where she volunteers. She was taking some of her students, who were struggling in school and having to repeat the grade, for 5 Fridays in the summer to learn to care for the horses. 
+The next day Lisa invited me to spend the day at a horse refuge ranch where she volunteers. She was taking three of her students, who were struggling in school and having to repeat the grade, for 5 Fridays in the summer to learn to care for the horses. 
 
-The horses there were all rescued from owners who either neglected or abused them or just couldn't afford to take care of them anymore. I got to work with a yearling, who had been out in a pasture since birth with very little human interaction. I carried a sack of grain and made friends with the horse via her stomach. At first she shrank away when I got close, but after just half an hour I was petting her face, attaching a lead rope, and teaching her to follow me around the pen. Forget that web development stuff, I think I've found my calling as a horse whisperer!
+The horses there were all rescued from owners who either neglected or abused them or just couldn't afford to take care of them anymore. I got to work with a yearling, who had been out in a pasture since birth with very little human interaction. I carried a sack of grain and made friends with the horse via her stomach. 
+
+At first she shrank away when I got close, but after just half an hour I was petting her face, attaching a lead rope, and teaching her to follow me around the pen. Forget that web development stuff, I think I've found my calling as a horse whisperer!
 
 ![alt text](http://i.imgur.com/juuPwB6l.jpg "Horses")
 
