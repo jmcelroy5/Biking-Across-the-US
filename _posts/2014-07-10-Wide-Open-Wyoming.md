@@ -58,9 +58,11 @@ The next morning I awoke with a start when a cat jumped on the hood of the car. 
 
 ![alt text](http://i.imgur.com/KQ09oNql.jpg "Adorable cat")
 
-I got started early, because I wanted to make it to the next real town 95 miles away. It was nice and relatively cool outside with very little wind, and most of the day I was losing elevation. I was in the zone and feeling amazing, so despite the longer distance I made it to my destination by late afternoon.
+I got started early, because I wanted to make it to the next real town 95 miles away. It was nice and relatively cool outside with very little wind, and most of the day I was losing elevation. The scenery was amazing, and I was in the zone, so despite the longer distance I made it to my destination by late afternoon.
 
 ![alt text](http://i.imgur.com/6QB7sz8l.jpg "Paused on an epic downhill to take a bike portrait")
+
+![alt text](http://i.imgur.com/TdRnWPOl.jpg)
 
 I had barely stopped to eat all day, but I didn't realize how hungry I was until I got off my bike in Lander and could barely even process a thought in my low blood sugar stupor. I went and ordered an embarrassing amount of food at the first diner I saw. Even more embarrassing was the fact that after voraciously consuming every last bite of the double cheeseburger, an entire basket of fries, and a large milkshake, I was only comfortably full. 
 
