@@ -62,8 +62,6 @@ I got started early, because I wanted to make it to the next real town 95 miles 
 
 ![alt text](http://i.imgur.com/6QB7sz8l.jpg "Paused on an epic downhill to take a bike portrait")
 
-I had barely stopped to eat all day, but I didn't realize how hungry I was until I got off my bike in Lander and could barely even process a thought in my low blood sugar stupor. I went ordered an embarrassing amount of food at the first diner I saw. Even more embarrassing was the fact that after voraciously consuming every last bite of the double cheeseburger, an entire basket of fries, and a large milkshake, I was only comfortably full. 
+I had barely stopped to eat all day, but I didn't realize how hungry I was until I got off my bike in Lander and could barely even process a thought in my low blood sugar stupor. I went and ordered an embarrassing amount of food at the first diner I saw. Even more embarrassing was the fact that after voraciously consuming every last bite of the double cheeseburger, an entire basket of fries, and a large milkshake, I was only comfortably full. 
 
-Lander was an attractive, friendly town with a free campground in their town park. I found Esther, Warren, and two new cyclists there. 
-
-Though the sun was still high, I was eager to excuse myself and retreat inside my tent with a new book I had just bought. Once nestled in my sleeping bag, not even Warren's jeers of "Jessica, you miserable sod!" could draw me out after that.
+Lander was an attractive, friendly town with a free campground in their town park. I found Esther, Warren, and two new cyclists there. Though the sun was still high, I was eager to excuse myself and retreat inside my tent with a new book I had just bought. Once nestled in my sleeping bag, not even Warren's jeers of "Jessica, you miserable sod!" could draw me out after that.
