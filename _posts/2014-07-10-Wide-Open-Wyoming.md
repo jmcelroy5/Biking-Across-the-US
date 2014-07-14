@@ -26,7 +26,7 @@ We had a lovely evening chatting and cooking our dinners. Esther sketched the he
 
 ![alt text](http://i.imgur.com/GOJ3jDIl.jpg "Warren next to the lake")
 
-![alt text](http://i.imgur.com/qqkYPLNl.jpg 'Sunset at Saratoga Lake")
+![alt text](http://i.imgur.com/qqkYPLNl.jpg "Sunset at Saratoga Lake")
 
 ####Saratoga, WY to Lamont, WY (71 miles)
 
@@ -66,4 +66,4 @@ I had barely stopped to eat all day, but I didn't realize how hungry I was until
 
 Lander was an attractive, friendly town with a free campground in their town park. I found Esther, Warren, and two new cyclists there. 
 
-Though the sun was still high, I was eager to excuse myself and retreat inside my tent with a new book I had just bought. Once nestled in my sleeping bag, not even Warren's jeers of "Jessica, you miserable sod!" could draw me out after that. 
+Though the sun was still high, I was eager to excuse myself and retreat inside my tent with a new book I had just bought. Once nestled in my sleeping bag, not even Warren's jeers of "Jessica, you miserable sod!" could draw me out after that.
