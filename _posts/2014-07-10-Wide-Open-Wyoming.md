@@ -3,12 +3,12 @@ layout: post
 title: "Wide Open Wyoming"
 date: 2014-07-10
 image-url: "http://i.imgur.com/47oquz3l.jpg"
-excerpt: "In Colorado the colors of the scenery were bright, bold, and vibrant. The sky seemed blue-er and the trees greener than anywhere else. The snow caps almost glowed on top of the dark mountains. As I neared Wyoming, I noticed the colors becoming more pastel-like, with soft green grass, pinkish brownish rock formations, and purple mountains in the distance. It's amazing how many distinct landscapes there are in this country."
+excerpt: "In Colorado the colors of the scenery were bright, bold, and vibrant. The sky seemed blue-er and the trees greener than anywhere else. The snow caps almost glowed on top of the dark mountains. As I neared Wyoming, though, I noticed the colors becoming more pastel-like, with soft green grass, pinkish brownish rock formations, and purple mountains in the distance. It's amazing how many distinct landscapes there are in this country."
 tags:
 ---
 ####Walden, CO to Saratoga, WY (68 mi)
 
-In Colorado the colors of the scenery were bright, bold, and vibrant. The sky seemed blue-er and the trees greener than anywhere else. The snow caps almost glowed on top of the dark mountains. As I neared Wyoming, I noticed the colors becoming more pastel-like, with soft green grass, pinkish brownish rock formations, and purple mountains in the distance. It's amazing how many distinct landscapes there are in this country.
+In Colorado the colors of the scenery were bright, bold, and vibrant. The sky seemed blue-er and the trees greener than anywhere else. The snow caps almost glowed on top of the dark mountains. As I neared Wyoming, though, I noticed the colors becoming more pastel-like, with soft green grass, pinkish brownish rock formations, and purple mountains in the distance. It's amazing how many distinct landscapes there are in this country.
 
 My first day in Wyoming was one of my favorites. I gave little thought to my mileage and never felt remotely eager for the ride to end. I felt that I had finally found my "zen" as my mind began to mirror Wyoming's wide, vast, peaceful landscapes.
 
