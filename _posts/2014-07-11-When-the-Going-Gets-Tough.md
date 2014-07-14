@@ -2,7 +2,7 @@
 layout: post
 title: "When the Going Gets Tough"
 date: 2014-07-11
-image-url: "http://i.imgur.com/5i8TkGbl.jpg"
+image-url: "http://i.imgur.com/zUc5W6Vl.jpg"
 excerpt: "The morning after my 95-mile day, I was excited to check out a cute coffeeshop I had noticed on the way into Lander. After so many weeks of gas station coffee, I have never been so happy to be served an overpriced latte. The homemade nutella croissant was still warm from the oven, setting a new bar for pastries in my mind."
 tags:
 ---
