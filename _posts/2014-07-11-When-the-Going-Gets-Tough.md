@@ -53,7 +53,7 @@ On the way down it began to rain and hail. I lost feeling in my extremities and 
 
 Five of the cyclists there were racing the Great Divide trail, a mountain bike route from Canada to Mexico. It's hard to explain how ridiculously hardcore that is. They had braved every kind of terrain, miserable weather, snow drifts 9 feet deep, impossibly steep hills, heinous injuries, and stretches as long as 150 miles with no civilization. The three TransAm cyclists listened wide-eyed to their stories that made biking across the country on roads, where you could at least count on a gas station every 30 miles, seem like a cakewalk.
 
-After an hour or so, there was a break in the storm, and we all reluctantly continued on our way. With the sun partially out, the remainder of the descent was much more bearable, and the beautiful Grand Tetons came into view. (Side note: The name literally means "big breasts." Who the hell let the French name our mountains?)
+After an hour or so there was a break in the storm, and we all reluctantly continued on our way. With the sun partially out, the remainder of the descent was much more bearable, and the beautiful Grand Tetons came into view. (Side note: The name literally means "big breasts." Who the hell let the French name our mountains?)
 
 The sun didn't last long, and I ended up battling more rain over the remaining 40 miles. I was determined to make it to Jenny Lake in Grand Teton National Park, where I knew there would be hiker/biker sites. Campers without vehicles receive something of a celebrity treatment in national parks - Hiker/biker campsites are cheap (often around $5), and I knew they wouldn't turn me away, even though a sign near the park entrance indicated the campground was full.
 
@@ -63,4 +63,4 @@ I finally rolled up to Jenny Lake around 8 pm (an especially long day for me) an
 
 ![alt text](http://i.imgur.com/Xy3M9qal.jpg "Jenny Lake Campground")
 
-After the fire died out and we all retired to our tents, I luxuriated in changing into dry clothes and snuggling into my new fleece. It had been a truly epic day, and I was proud of myself for rising to the occasio
+After the fire died out and we all retired to our tents, I luxuriated in changing into dry clothes and snuggling into my new fleece. It had been a truly epic day, and I was proud of myself for rising to the occasi
