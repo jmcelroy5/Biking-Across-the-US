@@ -49,7 +49,7 @@ There were snow drifts on the roadside as I neared the pass, and it was getting 
 
 ![alt text](http://i.imgur.com/5i8TkGbl.jpg "Near Togwotee Pass")
 
-On the way down it began to rain and hail. I lost feeling in my extremities and had to test my hands every so often to make sure I could still pull the brakes. I was so relieved when after several miles of this I came across a hotel. I walked into the lobby looking like a drowned rat and was overjoyed to find seven other cyclists warming up near the fire nursing cups of free coffee. 
+On the way down it began to rain and hail. I lost feeling in my extremities and had to test my hands every so often to make sure I could still pull the brakes. After several miles of this, I was so relieved when I came across a hotel. I walked into the lobby looking like a drowned rat and was overjoyed to find seven other cyclists warming up near the fire nursing cups of free coffee. 
 
 Five of the cyclists there were racing the Great Divide trail, a mountain bike route from Canada to Mexico. It's hard to explain how ridiculously hardcore that is. They had braved every kind of terrain, miserable weather, snow drifts 9 feet deep, impossibly steep hills, heinous injuries, and stretches as long as 150 miles with no civilization. The three TransAm cyclists listened wide-eyed to their stories that made biking across the country on roads, where you could at least count on a gas station every 30 miles, seem like a cakewalk.
 
@@ -63,4 +63,4 @@ I finally rolled up to Jenny Lake around 8 pm (an especially long day for me) an
 
 ![alt text](http://i.imgur.com/Xy3M9qal.jpg "Jenny Lake Campground")
 
-After the fire died out and we all retired to our tents, I luxuriated in changing into dry clothes and snuggling into my new fleece. It had been a truly epic day, and I was proud of myself for rising to the occasion.
+After the fire died out and we all retired to our tents, I luxuriated in changing into dry clothes and snuggling into my new fleece. It had been a truly epic day, and I was proud of myself for rising to the occasion
