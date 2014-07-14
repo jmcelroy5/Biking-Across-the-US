@@ -9,7 +9,7 @@ tags:
 
 ####Lander, WY to Dubois, WY (45 mi + 27 hitched)
 
-The morning after my 95-mile day, I was excited to check out a cute coffeeshop I had noticed on the way into Lander. After so many weeks of gas station coffee, I have never been so happy to be served an overpriced latte. The homemade nutella croissant was still warm from the oven, setting a new bar for pastries in my mind.
+The morning after my 95-mile day, I was excited to check out a cute coffeeshop I had noticed on the way into Lander. After so many weeks of gas station coffee, I had never been so happy to be served an overpriced latte. The homemade nutella croissant was still warm from the oven, setting a new bar for pastries in my mind.
 
 ![alt text](http://i.imgur.com/DseTzNKl.jpg "My yuppie coffee")
 
