@@ -13,7 +13,7 @@ The morning after my 95-mile day, I was excited to check out a cute coffeeshop I
 
 ![alt text](http://i.imgur.com/DseTzNKl.jpg "My yuppie coffee")
 
-I stayed at the coffeeshop reading and working on my blog, but finally around noon I knew I had to get back on the road. For some reason my heart and body just were not in the ride that day. A constant headwind didn't help my motivation. I knew it was a bad sign when I already felt impatient to reach my destination after the first few miles.
+I stayed at the coffeeshop reading and working on my blog, but finally around noon I knew I had to get back on the road. For some reason my heart and body were just not into the ride that day. A constant headwind didn't help my motivation. I knew it was a bad sign when I already felt impatient to reach my destination after the first few miles.
 
 After about 45 miles with 27 miles left to Dubois it started to rain, and the wind became unbearable. I was so frustrated I started thinking about hitchhiking the rest of the way, which I've never done or even seriously considered before. 
 
@@ -21,7 +21,7 @@ When a strong gust of wind pushed my bike off the road, I gave in. I dismounted,
 
 ![alt text](http://i.imgur.com/6jJxk7hl.jpg "Frank and Carol")
 
-They dropped me off at a KOA campground in Dubois, where I found a few other Eastbound cyclists and set up my tent next to theirs. When they heard I had hitchhiked they said "Ohh, DNF!" as in "did not finish." I knew they were just joking, but it compounded the regret I was already starting to feel. I didn't realize what a purist I was until then. 
+They dropped me off at a KOA campground in Dubois, where I found a few other Eastbound cyclists and set up my tent next to theirs. When they heard I had hitchhiked they said "Ohh, DNF!" as in "did not finish." I knew they were just joking around, but it compounded the sense of regret that was already growing in me. I didn't realize what a purist I was until then. 
 
 Rationally I know that 27 miles is nothing in the grand scheme of biking across the country, and obviously the experiences you have are far more important than biking every inch of the trail, but I still felt the need to redeem myself to myself. The weather forecast for the following day was even worse, so I vowed to tough it out no matter what.
 
