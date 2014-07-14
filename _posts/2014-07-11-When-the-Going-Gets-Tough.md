@@ -11,7 +11,7 @@ tags:
 
 The morning after my 95-mile day, I was excited to check out a cute coffeeshop I had noticed on the way into Lander. After so many weeks of gas station coffee, I have never been so happy to be served an overpriced latte. The homemade nutella croissant was still warm from the oven, setting a new bar for pastries in my mind.
 
-![alt text](http://i.imgur.com/6jJxk7hl.jpg "My yuppie coffee")
+![alt text](http://i.imgur.com/DseTzNKl.jpg "My yuppie coffee")
 
 I stayed at the coffeeshop reading and working on my blog, but finally around noon I knew I had to get back on the road. For some reason my heart and body just were not in the ride that day. A constant headwind didn't help my motivation. I knew it was a bad sign when I already felt impatient to reach my destination after the first few miles.
 
