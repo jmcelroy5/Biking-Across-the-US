@@ -55,6 +55,7 @@ The road quality was poor in the area. Every few feet there was a horizontal cra
 ![alt text](http://i.imgur.com/00QLAn7l.jpg "Riding with Esther")
 
 We were so glad when the road miraculously bent right, though, ending the day on a marvelous tailwind.
+
 We had heard the mosquitoes at the town park in Walden were unbearable, and the low was supposed to get into the low 30s that night. I normally like to camp whenever possible, but I decided to save some misery and check into a motel with Esther and Warren. Their room had a kitchen, so we bought ingredients and made a big pasta dinner together.
 
 Out on Main Street I met another solo female cyclist near my age. She hadn't decided where to stay yet, so I offered to share my motel room with her. We stayed up late talking about our experiences and the characters we've both met. We laughed about how many people have expressed concern for us as females traveling alone and how we actually never really feel alone on the road, anyway.
