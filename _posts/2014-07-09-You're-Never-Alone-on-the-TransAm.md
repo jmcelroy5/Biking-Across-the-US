@@ -32,6 +32,8 @@ Warren and Esther stayed outside a bit longer with bug nets over their heads. Th
 
 Esther, Warren, and I got a leisurely start at the campground, chatting about gear and preparing breakfast. Here we are finally heading out:
 
+![alt text](http://i.imgur.com/00QLAn7l.jpg "Riding with Esther")
+
 ![alt text](http://i.imgur.com/VYRouwEl.jpg "Esther and Warren")
 
 The road from the campground into Hot Sulphur Springs wound through an epic river gorge.
@@ -50,11 +52,9 @@ The ride that day was perhaps one of my favorites. We went through national fore
 
 Warren and Esther rode ahead of me most of the day, but I would sometimes catch up with them when they stopped to take photos. I also caught up with them when they took a break to chat with the owner at a quaint gift store, a really welcome surprise in the middle of nowhere. 
 
-The road quality was poor in the area. Every few feet there was a horizontal crack, so we were plagued by the sound of our bikes going *kerdunk, kerdunk, kerdunk* for miles and miles. On the final stretch we fought an intense crosswind for over an hour. 
+The road quality toward the end of the day was awful. Every few feet there was a horizontal crack, so we were plagued by the sound of our bikes going *kerdunk, kerdunk, kerdunk* for miles and miles. 
 
-![alt text](http://i.imgur.com/00QLAn7l.jpg "Riding with Esther")
-
-We were so glad when the road miraculously bent right, though, ending the day on a marvelous tailwind.
+On the final stretch we fought an intense crosswind for over an hour. We were so glad when the road miraculously bent right, though, ending the day on a marvelous tailwind.
 
 We had heard the mosquitoes at the town park in Walden were unbearable, and the low was supposed to get into the low 30s that night. I normally like to camp whenever possible, but I decided to save some misery and check into a motel with Esther and Warren. Their room had a kitchen, so we bought ingredients and made a big pasta dinner together.
 
