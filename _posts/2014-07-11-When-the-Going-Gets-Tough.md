@@ -39,7 +39,7 @@ The ride got off to a good start, and the forecasted rain seemed to be holding o
 
 LB, my host in Lamont, had made me promise not to camp past Lander, saying that visitors to Grand Teton and Yellowstone National Parks are killed every year in bear attacks. I knew it was irrational to fear such an improbable occurrence (especially when cars remain my biggest threat), but I couldn't help but feel nervous about entering bear country. 
 
-I stopped at a lodge on the way up the mountain for an apple cider and got to talking to a man who worked there about bears. He told me some cars coming the other way had sen one "just up the road." Uhhh, how far is just up the road? Are we talking yards or miles? 
+I stopped at a lodge on the way up the mountain for an apple cider and got to talking to a man who worked there about bears. He told me some cars coming the other way had reported seeing a mother bear and her cub "just up the road." Uhhh, how far is just up the road? Are we talking yards or miles? 
 
 He started advising me on what to do if a bear started "stalking" me or attacked me in my tent. Seeing my facial expression, another lady who worked there intervened and reassured me. She said bears avoid humans, so if I'm ever out hiking I should talk to myself out loud. Park rangers' advice for bear encounters is to make yourself big and yell "Hey bear, hey bear!" You should never turn and run - You'd make yourself look like prey.
 
@@ -63,4 +63,4 @@ I finally rolled up to Jenny Lake around 8 pm (an especially long day for me) an
 
 ![alt text](http://i.imgur.com/Xy3M9qal.jpg "Jenny Lake Campground")
 
-After the fire died out and we all retired to our tents, I luxuriated in changing into dry clothes and snuggling into my new fleece. It had been a truly epic day, and I was proud of myself for rising to the occasion
+After the fire died out and we all retired to our tents, I luxuriated in changing into dry clothes and snuggling into my new fleece. It had been a truly epic day, and I was proud of myself for rising to the occasio
