@@ -63,4 +63,4 @@ I finally rolled up to Jenny Lake around 8 pm (an especially long day for me) an
 
 ![alt text](http://i.imgur.com/Xy3M9qal.jpg "Jenny Lake Campground")
 
-After the fire died out and we all retired to our tents, I luxuriated in changing into dry clothes and snuggling into my new fleece. It had been a truly epic day, and I was proud of myself for rising to the occasi
+After the fire died out and we all retired to our tents, I luxuriated in changing into dry clothes and snuggling into my new fleece. It had been a truly epic day, and I was proud of myself for rising to the occasion.
