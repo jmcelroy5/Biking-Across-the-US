@@ -49,7 +49,7 @@ Mammoth Hot Springs:
 
 The Grand Canyon of Yellowstone:
 
-![alt text](http://i.imgur.com/qM8i5Mll.jpg "Grand Canyon of Yellowstone")
+![alt text](http://i.imgur.com/qM8i5Ml.png "Grand Canyon of Yellowstone")
 
 We even had several intimate wildlife sightings from the relative safety of the car:
 
