@@ -5,7 +5,8 @@ image-url: "http://i.imgur.com/GM2U4ATl.jpg"
 date: 2014-07-23
 excerpt: "Big Sky Country. Even after the wonders of Yellowstone I was enchanted by the vibrant blue sky and the glassy lakes with mountainous backdrops that greeted me in Montana. The first day started out easy breezy, downhill, and tailwindy. At one point I got off my bike to admire a mountain I had just cruised down. Right after I stopped to snap a picture, I heard a sharp popping noise and the sigh of air leaving my back tire. After covering 7 states and a couple thousand miles I had my first flat."
 tags:
-----
+---
+
 ####Madison to Ennis (85 mi)
 
 Big Sky Country. Even after the wonders of Yellowstone I was enchanted by the vibrant blue sky and the glassy lakes with mountainous backdrops that greeted me in Montana. The first day started out easy breezy, downhill, and tailwindy. At one point I got off my bike to admire a mountain I had just cruised down. Right after I stopped to snap a picture, I heard a sharp popping noise and the sigh of air leaving my back tire. After covering 7 states and a couple thousand miles I had my first flat. It's a testament to the quality of Schwalbe Marathon tires that I had even made it that far with no incidents, but even the most flat resistant tires won't stand to the challenge of a jagged broken beer bottle. 
