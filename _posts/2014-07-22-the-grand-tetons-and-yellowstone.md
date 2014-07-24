@@ -2,7 +2,7 @@
 layout: post
 title: "The Grand Tetons and Yellowstone"
 date: 2014-07-22
-image-url: "http://i.imgur.com/Q6PutlLl.jpg"
+image-url: "http://i.imgur.com/CmpKZQOl.jpg"
 excerpt: "My cousin, Courtney, was flying up from Denver to meet me in Jackson Hole, just 30 miles off the TransAm route right outside the entrance to Grand Teton National Park. She had a ski buddy there who had offered to let us stay at his house, even though he was out of town that week. She had never been to the Grand Tetons or Yellowstone before, and she planned to rent a car for a few days so we could get around the parks."
 tags:
 ---
