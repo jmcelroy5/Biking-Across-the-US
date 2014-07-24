@@ -57,7 +57,7 @@ We even had several intimate wildlife sightings from the relative safety of the 
 
 ![alt text](http://i.imgur.com/21gFobtl.jpg "Bison")
 
-![alt text](http://i.imgur.com/uVvFi7tl.jpg "Elk")
+![alt text](http://i.imgur.com/l76jfhKl.jpg "Elk")
 
 ####Hiking in the Tetons
 
