@@ -51,10 +51,6 @@ The Grand Canyon of Yellowstone:
 
 ![alt text](http://i.imgur.com/qM8i5Mll.jpg "Grand Canyon of Yellowstone")
 
-Waterfalls:
-
-![alt text](http://i.imgur.com/IAMqCgFl.jpg "Waterfall")
-
 We even had several intimate wildlife sightings from the relative safety of the car:
 
 ![alt text](http://i.imgur.com/b2GLsKUl.jpg "Grizzy bear")
