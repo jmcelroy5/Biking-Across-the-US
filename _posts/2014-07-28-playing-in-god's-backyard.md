@@ -90,7 +90,7 @@ Becca had rented an adorable cabin at a campground just outside the park and ver
 
 The next day Becca rented a car so we could get see more of the park and not have to rely on the shuttle. We drove over Going-to-the-Sun road all the way to Many Glacier, stopping for several short hikes and scenic outlooks. We finally headed back late in the evening, and by that point we nearly had the road all to ourselves. It was amazing to experience Going-to-the-Sun again at twilight.
 
-To take advantage of having the car, we drove to the next down for dinner to get out of the park's price inflation zone. We ate at an A&W then hit up a grocery store so Becca could stock up for her long 30ish hour train ride to Chicago the next day. The next morning I took Becca to the train station.
+To take advantage of having the car, we drove to the next town for dinner to get out of the park's price inflation zone. We ate at an A&W then hit up a grocery store so Becca could stock up for her long 30ish hour train ride to Chicago the next day. The next morning I took Becca to the train station.
 
 ![alt text](http://i.imgur.com/13ZL9m4l.jpg "Becca's Amtrak tour")
 
