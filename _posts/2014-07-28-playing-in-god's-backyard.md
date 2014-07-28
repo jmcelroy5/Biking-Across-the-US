@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Playing in God's Backyard"
+image-url: "http://i.imgur.com/ZqrGjt8.jpg"
 date: 2014-07-28
-image-url: "http://i.imgur.com/ZqrGjt8l.jpg"
 excerpt: "Robin Williams once said of Glacier National Park, "If it's not God's backyard, then he certainly lives nearby." That quote kept playing in my head as I spun my pedals in low gear, climbing up the Going-to-the-Sun Road. My head swiveled to take in the expansive vista that spread out like a painting beyond a low stone wall that separated the narrow road I was on from a steep drop-off into the V-shaped valley. The landscape was surreal: a range of colorful, jaunty mountains striped with snowfields that glowed in the morning light. With every turn in the road, the views became even grander. Glacial meltwater streamed down from the cliffs on the opposite side of the road, spraying me with cold crystal droplets."
 tags:
 ---
