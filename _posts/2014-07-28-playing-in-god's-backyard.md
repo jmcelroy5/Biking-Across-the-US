@@ -10,7 +10,7 @@ Robin Williams once said of Glacier National Park, "If it's not God's backyard, 
 
 A side trip up to northern Montana has been in my bike trip plans since the beginning, as I had heard that Glacier's Going-to-the-Sun road is one of the most beautiful highways in the world and a bucket list bike ride. The plan got even better, though, when my friend, Jeremy, got in touch to let me know he was going to be riding his motorcycle through Montana around that time. We decided we would rent a car in Missoula and spend a few days in Glacier, saving me the 3-day ride up there. He even rented a bike so he could join me on Going-to-the-Sun road.
  
-The first night we stayed in Apgar campground on the west side of the park and plotted our ascent up GTTS. The park restricts bike travel on the narrow, winding, mountainous stretch of the road is certain hours. We would have to get up to the highest point, Logan Pass, by 11:00 am, which meant we would have to get up at the crack of dawn for the 32 mile climb. 
+The first night we stayed in Apgar campground on the west side of the park and plotted our ascent up Going-to-the-Sun. The park restricts bike travel on the narrow, winding, mountainous stretch of the road to certain hours. We would have to get up to the highest point, Logan Pass, by 11:00 am, which meant we would have to get up at the crack of dawn for the 32 mile ride. 
 
 ![alt text](http://i.imgur.com/fBhccm9l.jpg "Beginning of GTTS Road")
 
@@ -20,7 +20,7 @@ The beginning of the ride went along Lake McDonald, a glassy lake that perfectly
 
 ![alt text](http://i.imgur.com/WcANSEwl.jpg "icy blue lake")
 
-At one point we put on the brakes when we saw a small dark figure run across the road ahead of us. It was a little black bear. He was just sitting on the side of the road now, watching us watching him. After a few minutes of this, we made motions to move and he scampered off into the woods.
+At one point we put on the brakes when we saw a small dark figure run across the road ahead of us. It was a little black bear. He stopped and sat on the side of the road, watching us watching him. After a few minutes of this, we made motions to move and he scampered off into the woods.
 
 With about 12 miles left to go to the pass, the real climb began. Biking proved to be the perfect speed to take in the incredible views. And, of course, I couldn't miss the opportunities for some epic bike glamour shots.
 
@@ -32,21 +32,25 @@ With about 12 miles left to go to the pass, the real climb began. Biking proved 
 
 ![alt text](http://i.imgur.com/7o1VguVl.jpg "Snowfields")
 
-Despite our best efforts to wake up early, we didn't make it up to Logan pass in time but about a half an hour late. The only consequence, though, was a light reprimand from a park ranger passing by in his truck. The top of the pass was covered in snow. Snow and a gigantic parking lot for a visitor's center. Jeremy and I found a place to rest and shovel handfuls of trail mix into our mouths. 
+Despite our best efforts to get going early, we were about half an hour late in cresting Logan pass. The only consequence, though, was a light reprimand from a park ranger passing by in a truck. 
 
-Logan Pass also turned out to be the habitat of mountain goats, who seemed undaunted by the throngs of visitors in their home.
+The top of the pass was covered in snow. Snow and a gigantic parking lot. Jeremy and I found a place to rest at the visitors center and shoveled handfuls of trail mix into our mouths. 
+
+Logan Pass also turned out to be the habitat of mountain goats, who seemed pretty indifferent to the throngs of visitors in their home.
 
 ![alt text](http://i.imgur.com/xrPrXbMl.jpg "Who parked their goat in my spot?")
 
-Though the park rules restrict bike travel going up the mountain, there are no restrictions for going down the mountain. Flying down, enjoying the views in reverse, was our reward for the tough climb. The only challenge was keeping our brakes clenched to stay in line with the slow-moving traffic.
+Though the park rules restrict bike travel going up the mountain, there are no restrictions for going down the mountain. Flying back down and enjoying the views in reverse was our reward for the tough climb. The only challenge was keeping our brakes clenched to stay in line with the slow-moving traffic.
 
 ![alt text](http://i.imgur.com/WqpzYdXl.jpg "Biking down next to glacial meltwater")
 
-That evening we returned to Lake McDonald around sunset. It was the most beautiful lake I had ever seen, and I wanted to swim in it to experience it more fully. Jeremy lent me his biodegradable soap so I could make a bath of it. The water was beyond freezing, and it took me 30 excruciating minutes of easing into it before I finally got the courage to dunk my head. I immediately popped back up, breathless. All the pain was worth it for the most scenic bath of my life.
+That evening we returned to Lake McDonald around sunset. It was the most beautiful lake I had ever seen, and I wanted to swim in it to experience it more fully. Jeremy lent me his biodegradable soap so I could make a bath of it. 
+
+The water was beyond freezing, and it took me 30 excruciating minutes of easing into it before I finally got the courage to dunk my head. I immediately popped back up, breathless. But all the pain was worth it for the most scenic bath of my life.
 
 ![alt text](http://i.imgur.com/v5Ea1ALl.jpg "Glacial bath")
 
-When we returned to the campsite we made a pretty extravagant dinner of steak fajitas with rice, black beans, corn, and salsa. This was one of many successful camp stove meals on the trip. We also made chili mac (always a satisfying go-to), pasta with broccoli and tuna in a white sauce, and biscuits and bacon. When I'm traveling by myself I usually just revert to ramen or canned soup, so it was fun to have someone to cook with.
+When we returned to the campsite we made an extravagant dinner of steak fajitas with rice, black beans, corn, and salsa. This was one of many successful camp stove meals on the trip. We also made chili mac (always a satisfying go-to), pasta with broccoli and tuna in a white sauce, and biscuits and bacon. When I'm traveling by myself I usually just resort to ramen or canned soup, so it was fun to have someone to cook more elaborate meals with.
 
 ![alt text](http://i.imgur.com/tu6i0xhl.jpg "Fajita night")
 
@@ -70,11 +74,11 @@ Many of the park's most popular day hikes leave from Many Glacier, and we did se
 
 ![alt text](http://i.imgur.com/DuYpIEfl.jpg "Deer friend!")
 
-The original plan was to drive back to Missoula after that, but then I remembered an email from my friend and former coworker, Becca, that said she would be passing through West Glacier on an Amtrak tour of the US. I looked back at the email and realized she would be there the following Tuesday. It would have been a shame to miss her by just a few days, and there was still more of Glacier I wanted to see, so I decided I would stay and explore the park with her. Poor Jeremy had to drive the rental car back to Missoula by himself, pick up his motorcycle, and then drive back so he could continue into Canada for the next destination on his trip: climbing in Banff.
+The original plan was to drive back to Missoula after that, but then I remembered an email from my friend and former coworker, Becca, that said she would be passing through West Glacier on an Amtrak tour of the US. I looked back at the email, which indicated she would be there the following Tuesday. It would have been a shame to miss her by just a few days, and there was still more of Glacier I wanted to see, so I decided I would stay and explore the park with her. Poor Jeremy had to drive the rental car back to Missoula by himself, pick up his motorcycle, and then drive back so he could continue into Canada for the next destination on his trip: climbing in Banff.
 
-I camped at a hiker/biker site near the west entrance to the park, so I could ride out early the next morning and meet Becca when her train came in. I was joined by some amazing bike tourists, including a German woman who had just biked across Canada (east to west) and is now on her way down to South America, as well as the man who started Warmshowers, the hospitality website for bike tourists that I've relied on several times on this trip.
+I camped at a hiker/biker site near the west entrance to the park, so I could ride out early the next morning and meet Becca when her train came in. I was joined by some amazing bike tourists, including a German woman who had just biked across Canada and is now on her way down to South America, as well as the man who started Warmshowers, the hospitality website for bike tourists that I've relied on several times on this trip.
 
-It stormed like crazy that night, so I didn't get to talk to my fellow campers as long as I would have liked before I had to take refuge in my tent. The next morning I packed up my wet tent at 5 am and biked the 10 miles to meet Becca for breakfast in West Glacier. I stopped on the way to take another look at Lake McDonald, which seemed to change character every time I saw it depending on the light. It was particularly spectacular this time, nearly moving me to tears at the sight of it.
+It stormed like crazy that night, so I didn't get to talk to my fellow campers as long as I would have liked before taking refuge in my tent. The next morning I packed up my wet tent at 5 am and biked the 10 miles to meet Becca for breakfast in West Glacier. I stopped on the way to take another look at Lake McDonald, which seemed to change character every time I saw it depending on the light. It was particularly spectacular this time, nearly moving me to tears at the sight of it.
 
 ![alt text](http://i.imgur.com/GJEQy4il.jpg "Lake McDonald in all its glory")
 
@@ -84,9 +88,9 @@ Becca had rented an adorable cabin at a campground just outside the park and ver
 
 ![alt text](http://i.imgur.com/8jBVJfIl.jpg "Avalanche Lake")
 
-The next day Becca rented a car so we could get see more of the park and not have to rely on the shuttle. We drove over Going-to-the-Sun road all the way to Many Glacier, stopping for several short hikes. We finally headed back late in the evening. By that point we nearly had the road all to ourselves. It was amazing to experience Going-to-the-Sun again at twilight.
+The next day Becca rented a car so we could get see more of the park and not have to rely on the shuttle. We drove over Going-to-the-Sun road all the way to Many Glacier, stopping for several short hikes and scenic outlooks. We finally headed back late in the evening, and by that point we nearly had the road all to ourselves. It was amazing to experience Going-to-the-Sun again at twilight.
 
-To take advantage of having the car, we drove to the next down for dinner to get out of the park's high price zone. We ate at an A&W then hit up a grocery store so Becca could stock up for her long 30ish hour train ride to Chicago the next day. The next morning I took Becca to the train station.
+To take advantage of having the car, we drove to the next down for dinner to get out of the park's price inflation zone. We ate at an A&W then hit up a grocery store so Becca could stock up for her long 30ish hour train ride to Chicago the next day. The next morning I took Becca to the train station.
 
 ![alt text](http://i.imgur.com/13ZL9m4l.jpg "Becca's Amtrak tour")
 
