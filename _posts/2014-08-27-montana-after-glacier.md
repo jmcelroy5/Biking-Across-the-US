@@ -3,7 +3,7 @@ layout: post
 title: "Montana after Glacier"
 img-url: "http://i.imgur.com/wSNLSfCl.jpg"
 date: 2014-08-27
-excerpt: I had to figure out my own route from Glacier back to where I had broken off from the TransAm in Missoula. It went pretty well, except for one notably treacherous 20-mile stretch on a narrow road with no shoulder. The road itself wasn't so different from the country roads I usually ride on, but once I had gotten a few miles in, there was steady traffic coming both ways. Cars rushed by me too close and too fast. Finally I made it to an intersection where I would turn onto a road with a wider shoulder. I saw a gas station on the corner and pulled into the parking lot to decompress. While I was eating ice cream, a trucker who had passed me on the road came up and scolded me, saying I 'shouldn't be riding on that road where there's no bike lane.' As if there's ever a bike lane."
+excerpt: "I had to figure out my own route from Glacier back to where I had broken off from the TransAm in Missoula. It went pretty well, except for one notably treacherous 20-mile stretch on a narrow road with no shoulder. The road itself wasn't so different from the country roads I usually ride on, but once I had gotten a few miles in, there was steady traffic coming both ways. Cars rushed by me too close and too fast. Finally I made it to an intersection where I would turn onto a road with a wider shoulder. I saw a gas station on the corner and pulled into the parking lot to decompress. While I was eating ice cream, a trucker who had passed me on the road came up and scolded me, saying I 'shouldn't be riding on that road where there's no bike lane.' As if there's ever a bike lane."
 tags:
 ---
 #### West Glacier to Swan Lake (55 mi)
