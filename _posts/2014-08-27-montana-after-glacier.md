@@ -12,7 +12,7 @@ I had to figure out my own route from Glacier back to where I had broken off fro
 
 I stopped at a USFS campground on Swan Lake for the night and snagged the last available campsite. It was really spacious for me and my one little tent, so I felt a little guilty seeing cars circling the campground searching in vain for a site. At one point I saw a touring cyclist go right by. "He'll be back," I thought. And sure enough, he circled back around and asked to share my site, which I was more than happy to do. His name was Ryan, he was about my age, and he had an awesome touring setup with sunflower seed buckets for panniers. 
 
-Ryan said he was traveling with two childhood friends, but they had gotten separated earlier in the day and didn't have cell service to reconnect. Their trip had started a month before in Wisconsin. They had also just been in Glacier, and now they were making their way to the coast before heading down to San Francisco. Eventually two more cyclists showed up to the campsite, one with round green buckets for panniers and the other with a bob trailer. They looked irritated. 
+Ryan said he was traveling with two childhood friends, but they had gotten separated earlier in the day, and he didn't have cell service to reconnect with them. Their trip had started a month before in Wisconsin. They had also just been in Glacier, and now they were making their way to the coast before heading down to San Francisco. Eventually two more cyclists showed up to the campsite, one with round green buckets for panniers and the other with a bob trailer. They looked irritated. 
 
 "We waited for you for hours in the last town! Didn't you get our text?!" they said to Ryan. When they noticed me sitting at the picnic table their expressions softened. They introduced themselves as Jeremiah and Brady, Ryan's childhood best friends and bike trip compadres. The three guys were great company, and we stayed up well past dark chatting around the campfire.
 
@@ -73,5 +73,4 @@ In the evening Jeremiah and I biked down to the river that runs through the cent
 When we got back to the house Ryan had started whipping up a huge pasta dinner for everyone. I worked on my bike a little, because it was starting to need some TLC. I replaced the ripped back tire and did what I could to clean the goop off the chain and cassette.
 
 The guys were planning to head out the next day, and I decided I would head out with them. I had been biking solo for the last several weeks, and I was happy to have some company for the next leg of the journey.
-
 
