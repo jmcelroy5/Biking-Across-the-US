@@ -32,9 +32,9 @@ I slept peacefully with the sound of the river. When I woke up the men were pack
 
 The next morning I had just 40 miles to go to Missoula, where I was looking forward to an afternoon of rest at Bruce's house. The ride was tougher than expected, probably because I tend to underestimate rides under 50 miles. 
 
-When I got to Bruce's house I was surprised to see tents and bikes I recognized in the yard. It was the three boys from Wisconsin I had met at the campsite a few nights before. I wondered how the heck they got ahead of me and figured they must have ridden the 110 miles to Missoula in one day. 
+When I got to Bruce's house I was surprised to see tents and bikes I recognized in the yard. It was the three boys from Wisconsin I had met at the campsite two nights before. I wondered how the heck they got ahead of me and figured they must have ridden the 110 miles to Missoula in one day. 
 
-I showed myself into the familiar house, took a shower, and started a load of laundry, feeling grateful for this sanctuary Bruce provides for cyclists in Missoula. When I went back outside John, one of the permanent house residents, had arrived. I hadn't spoken to John much on my previous visit, so this time I engaged him in conversation. 
+I showed myself into the now-familiar house, took a shower, and started a load of laundry, feeling grateful for this sanctuary Bruce provides for cyclists in Missoula. When I went back outside John, one of the permanent house residents, had arrived. I hadn't spoken to John much on my previous visit, so this time I engaged him in conversation. 
 
 It didn't take long to discover that John's number one passion is organic food and gardening. He talked to me at length about their vegetable garden in the back, a gardening club he was spearheading at the University of Montana, the community farm where he volunteers his time, and the thriving local food movement in Missoula. He said he was planning to make a veggie stir-fry for dinner and invited me to join him. It was simple and colorful and delicious. After dinner he pulled out his favorite vegetarian cookbooks for me to look through then showed me how to make homemade banana ice cream.
 
@@ -42,9 +42,9 @@ It didn't take long to discover that John's number one passion is organic food a
 
 Later on the Wisconsin boys showed up. They said they hadn't made it more than 20 miles on their ride to Missoula before two of them got flat tires. A chatty lady in a pickup truck offered them a ride then insisted on taking them all the way to town. 
 
-We lounged around outside talking while various characters drifted in an out of the scene: a couchsurfer on a road trip, a girl who was hitchhiking across the US, Bruce's energetic eight-year-old son, a lady who brought us a bowl of raspberries from the garden, and Caleb, a resident of the house who makes a living as a musician.
+We lounged around outside talking while various characters drifted in and out of the scene: a couchsurfer on a road trip, a girl who was hitchhiking across the US, Bruce's energetic eight-year-old son, Bruce's ladyfriend who brought us a bowl of raspberries from the garden, and Caleb, a resident of the house who makes a living as a musician.
 
-That evening the four of us joined up with two other bike touring guests, a couple from DC, and hit the town. We started at a restaurant called the Walking Mustache where we enjoyed live music by an impressive solo guitarist and drinks/appetizers at happy hour prices that the manager had extended past happy hour just for us. Our conversation ranged freely and deeply, and I found myself laughing more than I had in a while. 
+That evening the four of us joined up with two other bike touring guests and hit the town. We started at a restaurant called the Walking Mustache where we enjoyed live music by an impressive solo guitarist and drinks/appetizers at happy hour prices that the manager had extended past happy hour just for us. Our conversation ranged freely and deeply, and I found myself laughing more than I had in a while. 
 
 We hit several more bars, taking turn buying pitchers of beer for the group. At one noisy, crowded bar we made some new friends, two guys who worked on a permaculture farm in Missoula and dressed in a style I can only describe as Amish chic. Jeremiah raved to them about our warmshowers host and the communal paradise his home represented. Before we knew it, the night had passed by in a blur and the whole crew, including our two new friends, were headed back to crash on Bruce's lawn. 
 
@@ -60,7 +60,7 @@ The Wisconsin guys and I piled in his car and he drove us to  FLAT, the Forum fo
 
 ![alt text](http://i.imgur.com/wvRNlBRl.jpg "PEAS farm employee")
 
-John also took us to REI so we could grab a few things we needed for our bikes. Then we stopped by to see a house where he had lived for a period of time in a large teepee in the backyard... until the teepee burned down. It turned out that the fire may have been fortuitous, though - Since his last visit a huge, dead tree had fallen right onto the site where the teepee had stood before.
+John also took us to REI so we could grab a few things we needed. Then we stopped by to see a house where he had lived for a period of time in a large teepee in the backyard... until the teepee burned down one day. It turned out that the fire may have been fortuitous, though - Since his last visit a huge, dead tree had fallen right onto the site where the tepee had been before.
 
 After a series of additional errands in John's car we returned to Bruce's house. then went for ice cream at a shack that seemed to have a permanent line wrapping around the block.
 
