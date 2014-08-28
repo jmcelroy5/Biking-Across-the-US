@@ -40,7 +40,7 @@ It didn't take long to discover that John's number one passion is organic food a
 
 ![alt text](http://i.imgur.com/gWHMwirl.jpg "John making banana ice cream")
 
-Later on the Wisconsin boys (Ryan, Jeremiah, and Brady) showed up. They said they hadn't made it more than 20 miles on their ride to Missoula before two of them got flat tires. A chatty lady in a pickup truck offered them a ride then insisted on taking them all the way to town. 
+Later on the Wisconsin boys showed up. They said they hadn't made it more than 20 miles on their ride to Missoula before two of them got flat tires. A chatty lady in a pickup truck offered them a ride then insisted on taking them all the way to town. 
 
 We lounged around outside talking while various characters drifted in an out of the scene: a couchsurfer on a road trip, a girl who was hitchhiking across the US, Bruce's energetic eight-year-old son, a lady who brought us a bowl of raspberries from the garden, and Caleb, a resident of the house who makes a living as a musician.
 
