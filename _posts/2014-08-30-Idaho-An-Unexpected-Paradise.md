@@ -109,6 +109,8 @@ Despite a freezing cold morning I was eager to get going. Our sleeping spot felt
 
 Later on, a more serious fellow told us, "I don't want to ruin your day, but I noticed one of you had a flat tire on my way in." Unfortunately, that one wasn't a joke. We all rushed out to see that Ryan's rim was touching the ground. We hung out while he fixed it, played some hacky sack, and then finally hit the road again.
 
+![alt text](http://i.imgur.com/VvxptRal.jpg "Fixing Ryan's flat")
+
 I was listening to The Omnivore's Dilemma on audiobook. Michael Pollan's description of his experience killing chickens was somehow so appalling and engrossing that the big climbs that morning barely phased me. We stopped to take a break on a coffeeshop patio in the next town. Jeremiah brought over some bizarre books from a little free library he found nearby. We sat there for a while lounging and reading Borroughs and Sartre with raised eyebrows.
 
 An older motorcycle rider rolled up and came over to talk to us. He called himself a "peace rider" and launched into a sermon about faith and non-violence and the wrongness of killing animals. I felt that all signs were pointing toward me becoming a vegetarian by the end of the trip.
