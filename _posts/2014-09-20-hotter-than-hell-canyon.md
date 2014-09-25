@@ -41,7 +41,7 @@ The day was hotter than ever, making 42 miles feel like far more. So far Oregon 
 
 Baker City was a welcome oasis in the desert and a good choice for our half rest day. We had lunch at a deli then checked out a city history museum, which also had an enormous precious stone collection. We checked into a cheap motel and commenced operation relaxation which included pool time, stupid tv shows, reading, and takeout chinese food.
 
-[alt text](http://i.imgur.com/9NFFRCFl.jpg "Baker City")
+![alt text](http://i.imgur.com/9NFFRCFl.jpg "Baker City")
 
 #### Baker City, OR to Bates, OR (51 mi)
 
