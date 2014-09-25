@@ -62,5 +62,5 @@ Another highlight of the ride down the coast was Avenue of the Giants, 30 miles 
 
 ![alt text](http://i.imgur.com/EyUFE3gl.jpg "Light streaming through the branches")
 
-![alt text http://i.imgur.com/eCJFFSyl.jpg "Fiona said we look like squirrels"]
+![alt text](http://i.imgur.com/eCJFFSyl.jpg "Fiona said we look like squirrels")
 
