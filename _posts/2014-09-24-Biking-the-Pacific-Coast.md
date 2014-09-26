@@ -24,7 +24,7 @@ Hearing that Linda had once worked as a massage therapist, Jeremiah mentioned to
 
 The next night was another interesting one. We weren't able to make it to a campground, so we resolved to stealth camp. Around dusk, our prospects were looking grim. Houses and private property lined the country road we were on. There seemed to be no good hiding places, until we happened upon a driveway blocked with a row of large stones. 
 
-We dumped our bikes at the base and walked up the steep gravel drive to find the most perfectly flat, empty lot. We were so high above road level, no one driving by would think to look up at us. We brought our bikes up, set up camp, then combined our food to make a delectable smorgasboard of cheese and crackers, canned chili, avocados, and fruit.
+We dumped our bikes at the base and walked up the steep gravel drive to find the most perfectly flat, empty lot. We were so high above road level, no one driving by would think to look up at us.
 
 #### Plenty of Company
 
