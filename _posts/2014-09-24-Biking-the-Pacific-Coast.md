@@ -62,3 +62,8 @@ Another highlight of the ride down the coast was Avenue of the Giants, 30 miles 
 
 ![alt text](http://i.imgur.com/eCJFFSyl.jpg "Fiona said we look like squirrels")
 
+#### The Longest Ride
+
+With the enormous task of crossing the country behind me and closing in on my final destination, I was in a much different frame of mind all the way down the coast. The novelty of the bike tour had worn off, and I was starting to feel the pull of familiar faces and responsibilities back home. My mind was ahead of me in San Francisco, but my body still had to bike hundreds of miles of difficult terrain.
+
+Within 200 miles of San Francisco, I was yearning to cross the Golden Gate. So I woke up early one morning and cranked out 112 miles in one day. Though I felt a little guilty leaving my riding group behind, it felt right to finish my trip in solitude. The long ride was intense and empowering. Then the next day it was just 80 more miles to San Francisco.
