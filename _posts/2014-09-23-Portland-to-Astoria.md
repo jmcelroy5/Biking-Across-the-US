@@ -9,9 +9,9 @@ tags:
 
 ####Portland, OR to Seaside, OR
 
-The Wisconsin boys and I had parted ways after Portland. They were eager to get down to the redwood forests in Northern California before Brady had to go back home to start a job. I stayed in Portland longer, because Fiona was flying up from San Francisco to visit me for the weekend. 
+The Wisconsin boys and I had parted ways after Portland. They were eager to get down to the redwood forests in Northern California before Brady had to go back home to start a job. I stayed in Portland longer to meet Fiona, who was flying up from San Francisco to visit me for the weekend. 
 
-It was so fun to see Fiona and catch up on life. We rented a room on airbnb, complete with kale garden, chicken coop, and a hostess who was into the local bike activism scene. Fiona and I made it out weekend mission to do all the Portland-y things. We shopped at craft fairs, waited in line for brunch, waited in line for tacos, saw a movie at a brewpub theater, and biked across bridges. 
+It was so fun to see Fiona and catch up on life. We rented a room on airbnb, complete with a kale garden, chicken coop, and a hostess who was into the local bike activism scene. Fiona and I made it our weekend mission to do all the Portland-y things we could. We shopped at craft fairs, waited in line for brunch, waited in line for tacos, saw a movie at a brewpub theater, and biked across bridges. 
 
 ![alt text](http://i.imgur.com/8JX18e4l.jpg "Fiona in Portland")
 
@@ -31,14 +31,14 @@ After two days of riding by myself from Portland through rural Oregon, I reached
 
 ![alt text](http://i.imgur.com/lLSz3jbl.jpg "The anchor at Astoria")
 
-After Astoria, I pointed my tires south and began to bike down the coast. I made it to Seaside, OR that night, and had my first brush with the Pacific Ocean. Even though I was exhausted from a 100-mile day, I pushed my bike down the sandy beach and dipped my front wheel in the ocean. It was a satisfying way to commemorate the end of a journey. 
+After Astoria, I pointed my tires south and began to bike down the coast. I made it to Seaside, OR that night, where I had my first brush with the Pacific Ocean. Even though I was exhausted from a 100-mile day, I pushed my bike down the sandy beach and dipped my wheels in the water. It was a satisfying way to commemorate the end of a journey. 
 
 ![alt text](http://i.imgur.com/Ib1bYSTl.jpg "Dipping my tires in the ocean in Seaside")
 
-That night I treated myself to a hostel. I immediately felt at home at the cozy, welcoming hostel (which was actually in a house) and met a lot of cool female travelers.
+That night I treated myself to a hostel in Seaside. It was a cozy, welcoming place, and I met a lot of cool female travelers.
 
-Two days later I ran into Jeremiah in Tillamook. The weather was dreary and drizzly, so he had opted for a partial rest day to work on their blog while Brady and Ryan went ahead and just planned on pulling an extra long day to catch up. I saw him walking out of the library just as I was leaving town, and he joined me for the last twenty miles of the day.
+Two days later I ran into Jeremiah in Tillamook. The weather was dreary and drizzly, so he had opted for a partial rest day to work on their blog while Brady and Ryan went ahead. I saw him walking out of the library just as I was leaving town, and he joined me for the last twenty miles of the day.
 
-It turned out that between Brady and Ryan's fast pace and a couple of setbacks on my part (a sick day and a bike breakdown), Jeremiah and I wouldn't catch them until Eureka, CA. So for most of the Oregon coast and much of Northern California, it was just me and Jeremiah. We made an interesting travel duo, because we represent two extremes of personality - I am almost OCD in my planning, whereas he prefers just riding without knowing where he'll end up that night. I tried to take a page from his book and relax in the uncertainty. 
+It turned out that between Brady and Ryan's fast pace and a couple of setbacks on my part (a sick day and a bike breakdown), Jeremiah and I wouldn't catch them until Eureka, CA. So for most of the Oregon coast and much of Northern California, it was just us. We made an interesting travel duo, because we represent two extremes of personality - I am almost OCD in my planning, whereas Jeremiah prefers just riding without knowing where he'll end up that night. I tried to take a page from his book and relax in the uncertainty sometimes.
 
 ![alt text](http://i.imgur.com/tiTX2c5l.jpg "Jeremiah")
