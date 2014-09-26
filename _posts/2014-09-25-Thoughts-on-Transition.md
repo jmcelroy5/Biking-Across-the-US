@@ -30,7 +30,7 @@ This weekend Hackbright is hosting a two-day beginner-friendly hardware hackatho
 
 Right after I wrote that I got an email with an awesome, relevant quote from a Dev Bootcamp participant: "The secret ingredient is playful curiosity...If you're just here for the job, it might be hard to lean in to that playful curiosity, but if you're actually excited to express yourself in software, about learning this new vocabulary, this new skill, then it's not so hard to stay playfully curious."
 
-### Seek balance over your years, not your days. 
+#### Seek balance over your years, not your days. 
 
 That's a line from a lifehacking blog post I read a long time ago that stuck with me. The message of the post was that a lot of time we squander our energy chasing after all the things we *want* to do. We try to cram a little bit of everything into our days, but each task switch claims time and dilutes our efforts. When you try to dabble in everything at once, it's nearly impossible to achieve true mastery in any one area. I think it's ideal to hone in just one or two main pursuits you really care about then commit to pouring yourself into it for a period of time, even if it means neglecting other things.
 
