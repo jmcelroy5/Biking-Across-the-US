@@ -18,7 +18,7 @@ So, maybe all that mental downtime was meditative, and maybe it was worthwhile a
 
 #### Since I've been back...
 
-It's been a whole month since I crossed the Golden Gate Bridge on my bike. I got back during the last week of August which has given me a month to hang around and plug back into Bay Area life before Hackbright starts on Sept 29th. I really lucked out that my friend, Fiona, offered me a place to satay. She had just moved to a studio in San Francisco, so she let me sublet her old place in Oakland for the remaining month and a half of her lease. Win, win!
+It's been a whole month since I crossed the Golden Gate Bridge on my bike. I got back during the last week of August which has given me a month to hang around and plug back into Bay Area life before Hackbright starts on Sept 29th. I really lucked out that my friend, Fiona, offered me a place to stay. She had just moved to a studio in San Francisco, so she let me sublet her old place in Oakland for the remaining month and a half of her lease. Win, win!
 
 Finding a reasonable place to live in San Francisco, the tightest and most expensive rental market in the country, turned out to be a month-long battle. I sent nearly a hundred emails and visited more than twenty apartments before I finally secured a sublease in the Mission. There were many moments when I felt like I would *never* find a place to live. I questioned why I wanted to live in a city that didn't seem to want me back. Fortunately I have lots of amazing, supportive friends who kept my spirits up and reminded me that even in my worst-case scenario I wouldn't end up homeless.
 
