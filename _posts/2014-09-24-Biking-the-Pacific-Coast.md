@@ -40,7 +40,7 @@ Later that day we ran into another group of cyclists, who we'd met at hiker/bike
 
 ![alt text](http://i.imgur.com/XTPOpXOl.jpg "The group")
 
-### Ferndale, California 
+#### Ferndale, California 
 
 One of the most memorable nights was spent a cow pasture at the Humboldt County Fairgrounds in Ferndale, CA. We had the luck of arriving during the annual county fair, which, after thousands of miles biking across the country, was the most stereotypically American thing I had witnessed. The county fair was complete with vomit-inspiring carnival rides, foot-long corn dogs, funnel cake, games with giant stuffed animals for prizes, and a real RODEO! 
 
@@ -54,7 +54,7 @@ The following morning we biked through tree-lined neighborhods of perfectly-main
 
 ![alt text](http://i.imgur.com/bWfhyCBl.jpg "Breakfast at the diner")
 
-### Avenue of the Giants
+#### Avenue of the Giants
 
 Another highlight of the ride down the coast was Avenue of the Giants, 30 miles of blissful riding down a perfectly paved, mostly flat road with awe-inspiring redwoods rising overhead. We were riding parallel to 101 but far enough away that the road got very little traffic. It was so quiet and peaceful we could hear nothing but the redwood branches creaking in the wind.
 
