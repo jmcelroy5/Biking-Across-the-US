@@ -2,7 +2,7 @@
 layout: post
 title: "Portland to Seaside"
 date: 2014-09-23
-image-url: "http://i.imgur.com/l6A51RVl.jpg"
+image-url: "http://i.imgur.com/lLSz3jbl.jpg "
 excerpt: "The Wisconsin boys and I had parted ways after Portland. They were eager to get down to the redwood forests in Northern California before Brady had to go back home to start a job. I stayed in Portland longer, because Fiona was flying up from San Francisco to visit me for the weekend. "
 tags:
 ---
@@ -28,8 +28,6 @@ My route to the coast incorporated a beautiful 30-mile foresty bike path from Ba
 ![alt text](http://i.imgur.com/bjWrbe7l.jpg "Wild blackberries")
 
 After two days of riding by myself from Portland through rural Oregon, I reached Astoria, the final town on the TransAmerican Trail. Though Astoria has historical significance as the western end of Lewis & Clark's expedition, it's kind of an anti-climactic end to a bicycle journey. Astoria sits not on the ocean but more inland near the mouth of the Columbia River. 
-
-![alt text](http://i.imgur.com/lLSz3jbl.jpg "The anchor at Astoria")
 
 After Astoria, I pointed my tires south and began to bike down the coast. I made it to Seaside, OR that night, where I had my first brush with the Pacific Ocean. Even though I was exhausted from a 100-mile day, I pushed my bike down the sandy beach and dipped my wheels in the water. It was a satisfying way to commemorate the end of a journey. 
 
