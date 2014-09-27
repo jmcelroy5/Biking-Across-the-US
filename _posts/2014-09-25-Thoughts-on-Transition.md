@@ -35,9 +35,3 @@ Right after I wrote that I got an email with an awesome, relevant quote from a D
 That's a line from a lifehacking blog post I read a long time ago that stuck with me. The message of the post was that we tend to squander our energy chasing after all the things we *want* to do. We try to cram a little bit of everything into our days, but each task switch claims time and dilutes our efforts. When you try to dabble in everything at once, it's nearly impossible to achieve true mastery in any one area. I think it's ideal to hone in just one or two main pursuits you really care about then commit to pouring yourself into it for a period of time, even if it means neglecting other things.
 
 I feel really lucky that I was able to take the time off to focus on my bike adventure and accomplish my goal of biking across the country. Now with that behind me, my mind is clear and ready to single-mindedly focus on learning to code and build amazing websites. It'll be intense. I'm sure there will be many moments of frustration and crises of self doubt. But just like biking across a continent, transforming into an awesome web developer happens one hill, one challenge, one day at a time. You just have to stick with it.
-
-#### Life is change
-
-My grandmother, the daughter of a military chaplain who moved around constantly throughout her childhood, often quotes this advice from her father: "Life is constant change." The older I get the more I realize how true that is. In the last six years I've gone from high school to college to studying abroad to the working world to the bike trip and now back to school to train for an entirely new industry. 
-
-Major life transitions can be disorienting and stressful. Each time it shakes up your sense of identity a bit as you learn to navigate your new environment. But then slowly, surely, finally, and inevitably the dust will settle and you will find your new equilibrium. I'm learning to trust in that process.
